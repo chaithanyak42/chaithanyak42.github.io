@@ -22,6 +22,12 @@ I vividly remember the day as I write this when it was around 5:15 in the freezi
 
 ![](/assets/Travel/jupiter.jpeg)
 
+After a few minutes, the sun was slowly rising covering the entire sky into a magical orange landscape, the moon was right on top of me and we get to see the first views of the Sleeping Buddha range with Kanchenjunga the world's third highest mountain at the center. My words cannot truly express what I was witnessing.
+
+![](/assets/Travel/sunrise.jpeg)
+
+![The Sleeping Buddha With Kanchenjunga at the center ](/assets/Travel/sb.jpeg)
+
 ### Embrace The Uncertainties In Life - Don't Plan Out Every Detail
 
 [... content for this section ...]
@@ -45,19 +51,17 @@ I vividly remember the day as I write this when it was around 5:15 in the freezi
 
 
 
-### ***Nature Is Our Greatest Source Of* *Inspiration***
-
-"*It seems to me that the natural world is the greatest source of excitement; the greatest source of visual beauty; the greatest source of intellectual interest. It is the greatest source of so much in life that makes life worth living*." - **David Attenborough**
 
 
 
 
 
-After a few minutes, the sun was slowly rising covering the entire sky into a magical orange landscape, the moon was right on top of me and we got to see the first views of the Sleeping Buddha with Kanchenjunga the world's third highest mountain at the center. My words cannot truly express what I was witnessing.
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1702554696352/7a6f175d-ca64-41c4-91d4-3a0157a78697.jpeg align="center")
 
-![The Sleeping Buddha With Kanchenjunga at the center ](https://cdn.hashnode.com/res/hashnode/image/upload/v1702263785346/2bfe3697-3857-42ec-a397-66478aa540d8.jpeg align="center")
+
+
+
+
 
 We humans are generally wired to always think about ourselves, our loved ones, or 99% of the time what other [earthlings think of us](https://waitbutwhy.com/2014/06/taming-mammoth-let-peoples-opinions-run-life.html), then here I was exactly at that moment in time being inspired, awed by what I have just witnessed and thinking that we need to collectively work hard to preserve this experience not just for us but for our future generations to come (something we inherited). A moment that made me feel more responsible and accountable towards not just myself and the people I deeply care about, but our greatest source of Inspiration **The Natural World.**
 
