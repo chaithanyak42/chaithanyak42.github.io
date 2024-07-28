@@ -6,9 +6,9 @@ permalink: /blog/
 
 {% for post in site.posts %}
   <article class="post-preview">
-    <h2 class="post-title">
+    <h3 class="post-title">
       <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-    </h2>
+    </h3>
     <div class="post-meta">
       {{ post.date | date: "%B %-d, %Y" }}
     </div>
