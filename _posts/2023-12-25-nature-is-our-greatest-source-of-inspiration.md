@@ -50,7 +50,7 @@ What do you think are some of the greatest mistakes that mankind has ever made? 
 
 Before the industrial and agricultural revolution, much of human history was sustainable, because that was our only way of living. we were okay and happy with what we got. Everything was in balance. But over some time we become smarter and just an idea could change things for us, that's how we ended up inventing rockets and going to the moon, able to look beyond our planet, and the solar system, live longer and much happier than our ancestors, eradicated deadly diseases, captured the first picture of a black hole, made technology more accessible than ever and by using our brains which is the most critical part of our identity we were able to look into the smallest to the biggest things in the known universe and do things that no species can ever be able to do. All of this led to so much good and bad, the right and the wrong things happened but largely we humans become more comfortable, we are a species that is filled with greed, capitalism is ruling nations all over the world, and finally, the over-consumption of the limited resources of the earth is leading to a much bigger disaster and the worst part is in this process we are aiming to be the only last species to be alive on this planet. Just imagine if we continue to exist as we are today, there will be a day when you show your kid on your digital device that this is how Lions, Elephants, Giraffes, and birds used to look like, how sad would that moment be if the kid asked you where are these now? What would your answer be? would you be telling them that we humans ended up being responsible for the loss of these species? - I would leave this to your imagination.
 
-![1968: Earthrise (Apollo 8)](/assets/Travel/earth.jpeg)
+![1968: Earthrise (Apollo 8)](/assets/Travel/earth.jpg)
 
 The truth is when we took the first image of the planet Earth, we realized that we are just a small rock hurdling through space and time and that our resources are not infinite enough to keep consuming the Earth in an unsustainable way. The reality is with or without us the wild will return ( what happened in Chernobyl after the disaster was a clear example), we often think about saving our planet but we need to be sustainable to save ourselves and our species. Anything that cannot be consumed forever is by definition unsustainable and we need to strike the right balance, consume less and there's a much bigger need to act and live as hunter-gatherers more than ever. That's our only option.
 
@@ -60,7 +60,7 @@ This is one of the reasons I love hiking with Indiahikes because of their sustai
 
 ![](/assets/Travel/sepi.jpeg)
 
-![](/assets/Travel/gt.jpeg)
+![Green Trails Programme](/assets/Travel/gt.png)
 
 There are certain things that we can all do to be sustainable
 
