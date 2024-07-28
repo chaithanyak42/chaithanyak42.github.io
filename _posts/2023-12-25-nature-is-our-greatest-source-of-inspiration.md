@@ -6,6 +6,8 @@ author:
 - Chaithanya Kumar A
 ---
 
+## Things Learnt While Hiking In 2023 - Part 1
+
 ## Contents
 
 1. [Nature Is Our Greatest Source Of Inspiration](#nature-is-our-greatest-source-of-inspiration)
