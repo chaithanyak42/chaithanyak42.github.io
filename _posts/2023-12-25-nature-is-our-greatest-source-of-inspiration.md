@@ -107,7 +107,6 @@ The **WHYs** behind me wanting to be physically and mentally strong are:
 
 This story ["**The Darker Side of High Altitude Himalayan Trekking— A Phulara Ridge Story"**](https://medium.com/@deepikaKaranji/the-darker-side-of-high-altitude-himalayan-trekking-a-phulara-ridge-story-d9f501b030aa) by my fellow trekker Deepika is a first-hand and personal account of the actual dangers of high-altitude mountain trekking and why you cannot take fitness lightly or of granted. *<mark>The line between inspiringly bold and foolishly reckless can be a millimeter thick and can only be visible with hindsight. Treat your body as a house you want to live for the next 70-80 years to come. Avoid the second Arrow :)</mark>*
 
-[... content for this section ...]
 
 ### Adversity Shapes You Up - Finding Joy In Doing The Difficult Things
 
@@ -120,3 +119,8 @@ I used to think about the immense strength that is required by these huge mounta
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1702887013103/3189d571-0a52-4cdf-820a-3278ec108425.jpeg align="center")
 
 *Always Find Joy In Doing The Difficult Things and walk Alongside Your Demons To Harness Them! This Is Not Just True W.R.T Trekking, It's True Of Everything In Life.*
+
+<div style="text-align: center;">
+  <img src="https://explorer1.jpl.nasa.gov/assets/images/galleries/cropped/1968_Earthrise_297755main_GPN-2001-000009_full.jpg" alt="1968: Earthrise (Apollo 8)" />
+  <p><em>1968: Earthrise (Apollo 8)</em></p>
+</div>
