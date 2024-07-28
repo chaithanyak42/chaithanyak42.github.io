@@ -28,44 +28,9 @@ After a few minutes, the sun was slowly rising covering the entire sky into a ma
 
 ![The Sleeping Buddha With Kanchenjunga at the center ](/assets/Travel/sb.jpeg)
 
-### Embrace The Uncertainties In Life - Don't Plan Out Every Detail
-
-[... content for this section ...]
-
-### The Need To Be Sustainable
-
-[... content for this section ...]
-
-### The Most Important Investments You Can Ever Make - Physical & Mental Health
-
-[... content for this section ...]
-
-### Adversity Shapes You Up - Finding Joy In Doing The Difficult Things
-
-[... content for this section ...]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 We humans are generally wired to always think about ourselves, our loved ones, or 99% of the time what other [earthlings think of us](https://waitbutwhy.com/2014/06/taming-mammoth-let-peoples-opinions-run-life.html), then here I was exactly at that moment in time being inspired, awed by what I have just witnessed and thinking that we need to collectively work hard to preserve this experience not just for us but for our future generations to come (something we inherited). A moment that made me feel more responsible and accountable towards not just myself and the people I deeply care about, but our greatest source of Inspiration **The Natural World.**
 
-### ***Embrace The Uncertainties In Life* *\- Don't Plan Out Every Detail***
+### Embrace The Uncertainties In Life - Don't Plan Out Every Detail
 
 > “The only certainty is that nothing is certain.” - Pliny the Elder
 > 
@@ -77,7 +42,7 @@ Morgan Housel (The Author Of Psychology Of Money) said "*People get excited when
 
 This change in perception also led me to focus on uncovering the truth rather than trying to be right always because avoiding something if it does not align with your existing beliefs is a dangerous game to play and it's always good to know the other side of the coin as well.
 
-### ***The Need To Be* *Sustainable***
+### The Need To Be Sustainable
 
 > We have come as far as we have because we are the cleverest creatures to have ever lived on Earth. But if we are to continue to exist, we will require more than intelligence. We will require wisdom - David Attenborough
 
@@ -115,7 +80,7 @@ There are certain things that we can all do to be sustainable
 
 [A Life On Our Planet By David Attenborough](https://www.youtube.com/watch?v=64R2MYUt394) is a also great start to learning more about climate change and biodiversity loss, just Like how Hiking helped me what does it mean to be sustainable i just wish reading this will change some of you if not already.
 
-### **The Most Important Investments You Can Ever Make - Physical & Mental Health**
+### The Most Important Investments You Can Ever Make - Physical & Mental Health
 
 > “A healthy man wants a thousand things, a sick man only wants one” - Confucius
 
@@ -142,7 +107,9 @@ The **WHYs** behind me wanting to be physically and mentally strong are:
 
 This story ["**The Darker Side of High Altitude Himalayan Trekking— A Phulara Ridge Story"**](https://medium.com/@deepikaKaranji/the-darker-side-of-high-altitude-himalayan-trekking-a-phulara-ridge-story-d9f501b030aa) by my fellow trekker Deepika is a first-hand and personal account of the actual dangers of high-altitude mountain trekking and why you cannot take fitness lightly or of granted. *<mark>The line between inspiringly bold and foolishly reckless can be a millimeter thick and can only be visible with hindsight. Treat your body as a house you want to live for the next 70-80 years to come. Avoid the second Arrow :)</mark>*
 
-### **Adversity Shapes You Up - Finding Joy In Doing The Difficult Things**
+[... content for this section ...]
+
+### Adversity Shapes You Up - Finding Joy In Doing The Difficult Things
 
 I was listening to a [podcast](https://www.youtube.com/watch?v=aGOV5R7M1Js&t=180s) by Lex Fridman with Walter Isaacson ( who wrote the biographies of Steve Jobs, Henry Kissinger, Albert Einstein, Leonardo Da Vinci, Benjamin Franklin, Jennifer Doudna, and most recently about Elon Musk) and there was a topic about what is the role of any kind of difficult childhood and Adversity in the lives of great men and women, great minds - is it a requirement, a catalyst to do great things or is it just a simple coincidence of fate? - It's not a requirement was the answer from Walter but he also quoted that it's certainly true that a lot of really driven people are driven because they are harnessing some kind of adversity or demons they faced in their childhood and end up doing things that a changes the course of humanity forever.
 
@@ -153,249 +120,3 @@ I used to think about the immense strength that is required by these huge mounta
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1702887013103/3189d571-0a52-4cdf-820a-3278ec108425.jpeg align="center")
 
 *Always Find Joy In Doing The Difficult Things and walk Alongside Your Demons To Harness Them! This Is Not Just True W.R.T Trekking, It's True Of Everything In Life.*
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.
-
-## Some great heading (h2)
-
-Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu.
-
-Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
-
-## Another great heading (h2)
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.
-
-### Some great subheading (h3)
-
-Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum.
-
-Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc.
-
-### Some great subheading (h3)
-
-Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
-
-> This quote will *change* your life. It will reveal the <i>secrets</i> of the universe, and all the wonders of humanity. Don't <em>misuse</em> it.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt.
-
-### Some great subheading (h3)
-
-Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum.
-
-```html
-<html>
-  <head>
-  </head>
-  <body>
-    <p>Hello, World!</p>
-  </body>
-</html>
-```
-
-
-In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
-
-#### You might want a sub-subheading (h4)
-
-In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
-
-In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
-
-#### But it's probably overkill (h4)
-
-In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
-
-##### Could be a smaller sub-heading, `pacman` (h5)
-
-In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
-
-###### Small yet significant sub-heading  (h6)
-
-In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
-
-### Oh hai, an unordered list!!
-
-In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
-
-- First item, yo
-- Second item, dawg
-- Third item, what what?!
-- Fourth item, fo sheezy my neezy
-
-### Oh hai, an ordered list!!
-
-In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
-
-1. First item, yo
-2. Second item, dawg
-3. Third item, what what?!
-4. Fourth item, fo sheezy my neezy
-
-
-
-## Headings are cool! (h2)
-
-Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
-
-Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
-
-Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc.
-
-### Tables
-
-Title 1               | Title 2               | Title 3               | Title 4
---------------------- | --------------------- | --------------------- | ---------------------
-lorem                 | lorem ipsum           | lorem ipsum dolor     | lorem ipsum dolor sit
-lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit
-lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit
-lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit
-
-
-Title 1 | Title 2 | Title 3 | Title 4
---- | --- | --- | ---
-lorem | lorem ipsum | lorem ipsum dolor | lorem ipsum dolor sit
-lorem ipsum dolor sit amet | lorem ipsum dolor sit amet consectetur | lorem ipsum dolor sit amet | lorem ipsum dolor sit
-lorem ipsum dolor | lorem ipsum | lorem | lorem ipsum
-lorem ipsum dolor | lorem ipsum dolor sit | lorem ipsum dolor sit amet | lorem ipsum dolor sit amet consectetur
