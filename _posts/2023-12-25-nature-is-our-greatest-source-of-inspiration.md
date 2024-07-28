@@ -38,7 +38,7 @@ We humans are generally wired to always think about ourselves, our loved ones, o
 
 Morgan Housel (The Author Of Psychology Of Money) said "*People get excited when they’re surprised. Not when something big happens, or when they find the right answer. They get happy, mad, scared, amused, and astounded when they stumble across a gap between expectations and reality*." What he truly meant was [***<mark>Happiness = Expectations - Reality.</mark>***](https://collabfund.com/blog/what-makes-you-happy/) I think about this more often now than ever through the kind of experiences I have had across all the areas of my life so far in my relationships with people, at the job, the expectations your family has on you, or just the kind of expectations that I wanted to get from the treks and after a certain point I was able to spot a clear difference in what led to happiness and what did not. Most of the time I had huge expectations that led to disappointments and heartbreaks and the most unexpected things led to some of the most fulfilling and happiest moments of my life so far. June-August 2023 was one of the darkest periods of my life battling with my inner demons and getting to know the underlying truth of certain things, the actual reality sometimes might break anyone and contrary to how I might look to the outside world I always thought of myself as a emotionally strong and mature person. But here I was trying to accept the reality as it is, battling depression, and for a man to come out and say that he is struggling with mental health needs to have a lot more courage than what he already has, In acknowledging my battle against the mental health, I've come to realize a newfound strength, one that I now proudly recognize within myself, a testament to the resilience that emerges from facing the darkness within. *<mark>This does not mean one should not have expectations totally but do have it with a worldview that reality can be something different than what you might expect it to be all the time. Just Embrace Uncertainty and randomness.</mark>*
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1702882034326/74ce4288-5adf-4cb5-a003-fc0a3bc0056e.jpeg align="center")
+![](/assets/Travel/kp.jpeg)
 
 This change in perception also led me to focus on uncovering the truth rather than trying to be right always because avoiding something if it does not align with your existing beliefs is a dangerous game to play and it's always good to know the other side of the coin as well.
 
@@ -50,7 +50,7 @@ What do you think are some of the greatest mistakes that mankind has ever made? 
 
 Before the industrial and agricultural revolution, much of human history was sustainable, because that was our only way of living. we were okay and happy with what we got. Everything was in balance. But over some time we become smarter and just an idea could change things for us, that's how we ended up inventing rockets and going to the moon, able to look beyond our planet, and the solar system, live longer and much happier than our ancestors, eradicated deadly diseases, captured the first picture of a black hole, made technology more accessible than ever and by using our brains which is the most critical part of our identity we were able to look into the smallest to the biggest things in the known universe and do things that no species can ever be able to do. All of this led to so much good and bad, the right and the wrong things happened but largely we humans become more comfortable, we are a species that is filled with greed, capitalism is ruling nations all over the world, and finally, the over-consumption of the limited resources of the earth is leading to a much bigger disaster and the worst part is in this process we are aiming to be the only last species to be alive on this planet. Just imagine if we continue to exist as we are today, there will be a day when you show your kid on your digital device that this is how Lions, Elephants, Giraffes, and birds used to look like, how sad would that moment be if the kid asked you where are these now? What would your answer be? would you be telling them that we humans ended up being responsible for the loss of these species? - I would leave this to your imagination.
 
-![1968: Earthrise (Apollo 8)](https://explorer1.jpl.nasa.gov/assets/images/galleries/cropped/1968_Earthrise_297755main_GPN-2001-000009_full.jpg align="center")
+![1968: Earthrise (Apollo 8)](/assets/Travel/earth.jpeg)
 
 The truth is when we took the first image of the planet Earth, we realized that we are just a small rock hurdling through space and time and that our resources are not infinite enough to keep consuming the Earth in an unsustainable way. The reality is with or without us the wild will return ( what happened in Chernobyl after the disaster was a clear example), we often think about saving our planet but we need to be sustainable to save ourselves and our species. Anything that cannot be consumed forever is by definition unsustainable and we need to strike the right balance, consume less and there's a much bigger need to act and live as hunter-gatherers more than ever. That's our only option.
 
@@ -58,9 +58,9 @@ I'm not trying to say that we have to live like hermits, I'm grateful for everyt
 
 This is one of the reasons I love hiking with Indiahikes because of their sustainability practices and the idea of leaving mountains better than we found.
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1702824945010/af237454-74ff-4e64-ae09-96ece72e28ff.jpeg align="center")
+![](/assets/Travel/sepi.jpeg)
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1702485337839/0e3ebc1b-041a-41d6-8db0-dcd0cb02dafa.png align="center")
+![](/assets/Travel/gt.jpeg)
 
 There are certain things that we can all do to be sustainable
 
@@ -84,13 +84,13 @@ There are certain things that we can all do to be sustainable
 
 > “A healthy man wants a thousand things, a sick man only wants one” - Confucius
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1702831030483/fffb6d96-b137-4e0e-b6ef-e49804478c80.jpeg align="center")
+![](/assets/Travel/mansb.jpeg)
 
 I realized the importance of Physical and mental health when I started taking Hiking more seriously. Exercise or Mindfulness was never a regular thing to me. I used to take walks whenever it was possible but unlike other things, I never deliberately pushed myself to be regular with my workouts until later I realized while I was on the hikes that as much as I loved nature, the solitude, the mountains, the songs of the birds in the wild and every other reason that had led me to do more hikes, I hated the fact that my body and mind was not always fit enough to embrace the very own things I wanted completely, moments where I just wished why the hell am I doing this, can't I just offload my backpack? can't I just quit and go back to my comfort zone? can't I go back to my apartment, grab a pizza/eat my favorite biryani, binge-watch a series, and just get done with my day? - but since I always loved embracing the pain, loved pushing my limits, I was able to complete the treks irrespective of my lack of complete physical and mental preparedness for the same. *<mark>I think everyone will realize the importance of certain things once you hit rock bottom or go through some very low points in life which make you realize that you need to invert your current lifestyle. Most of the the real important things in life like the value of Money, Good Relationships, and Health are noble pursuits. you'll only realize its true value when you don't have one, it's almost like oxygen you know its value because without it life cannot exist.</mark>*
 
 But the truth is I can't keep doing this, there's a certain limit to everything that your body or mind can withstand, some other day I might face much harsher challenges that I might not be able to embrace. I wanted to get healthier both physically and mentally.
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1702880515895/e9be7e9f-9288-414a-9a01-1451fcd71b8c.jpeg align="center")
+![](/assets/Travel/quote.jpeg)
 
 Unlike setting unrealistic expectations with my workouts or waiting to set my new year new me resolutions or trying to prove a point to someone else - I started slow ( [trying not to be stupid](https://fs.blog/inversion/) and just focusing on getting 1% better every day, replacing the bad habits with good) but focused towards being disciplined and most importantly I wanted my **WHYs** to drive me towards my physical and mental well-being. *<mark>I always believed that if you have a strong WHY behind everything that you do in your life either achieving financial freedom, success, or whatever it is - It helps you be more responsible and accountable towards that thing.</mark>*
 
