@@ -11,7 +11,7 @@ author:
 ## Contents
 
 1. [Humanity Is More Beautiful Than What You Think](#humanity-is-more-beautiful-than-what-you-think)
-2. [If People Looked Up At The Sky, They'd Live A Lot Differently - Calvin & Hobbes](#if-people-looked-up-at-the-sky-they'd-live-a-lot-differently---calvin-&-hobbes)
+2. [If People Looked Up At The Sky They Would Live A Lot Differently - Calvin & Hobbes](#if-people-looked-up-at-the-sky-they-would-live-a-lot-differently---calvin-&-hobbes)
 3. [Curiosity Takes You Further Than Anything](#curiosity-takes-you-further-than-anything)
 4. [The Relationship You Have With Your Authentic Self - The Most Important](#the-relationship-you-have-with-your-authentic-self---the-most-important)
 5. [Travel Changes The Way You Think](#travel-changes-the-way-you-think)
@@ -31,7 +31,7 @@ There are many great things about hiking- the humongous snow-capped mountains, t
 
 And with people, you also get to learn about their culture, and different diversities, and the collective knowledge we share and learn from each other is what makes it so much more worth loving the people around you. I have had incredible luck and fortune to meet some amazing people who have inspired me and with whom I still hold a long-standing friendship even after the trek.
 
-### **If People Looked Up At The Sky, They'd Live A Lot Differently - Calvin & Hobbes**
+### **If People Looked Up At The Sky They Would Live A Lot Differently - Calvin & Hobbes**
 
 Did You Know That
 
@@ -61,11 +61,6 @@ One of my dreams is to watch a rocket taking off and punch a hole into the night
 
 ![](/assets/Travel/ch.jpeg)
 
-<div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%;">
-    <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/wupToqz1e2g?si=UOPcwSyEY7ZXIZmz" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</div>
-
-
 ### **Curiosity Takes You Further Than Anything**
 
 One of the reasons I'd want to live longer and travel as much as possible is because of the curiosity and the hunger to learn more. I believe the curiosity to passionately learn something new every day takes you further than anything else. Until I started trekking I never knew how the Himalayas were formed or did not even know the fact that they were the youngest mountain ranges in the world Until one of the trekkers explained the entire story behind them. I went back to being a kid at that moment and ended up spending more time learning more.
@@ -80,7 +75,7 @@ This drive to be more curious will also make your travel experience more enrichi
 
 I think we live in a world where our thoughts, actions, beliefs, and ideologies are driven by an outside world. It's how evolution has been where an individual always does things that let him/her be part of a social community and hence social survival, respect, and admiration are earned. That is why we are more social seekers than a truth-seeking species. Probably the entire thing is better explained with humor by my friend Tim Urban [***Taming the Mammoth: Why You Should Stop Caring What Other People Think***](https://waitbutwhy.com/2014/06/taming-mammoth-let-peoples-opinions-run-life.html)
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1703502253876/f5a83867-b5f8-4c36-bbcd-969558db90ff.jpeg align="center")
+![](/assets/Travel/cosmos.jpeg)
 
 We all belong to a tribe ( Our Family and friends, Colleagues, Social Communities & these days it's more digital than actually social, religions, etc) and do underestimate how influential the tribe is on our thinking. we always make sure that we are drawn into our tribes because of the comfort and warmth that we receive and at the same time a tribe that understands our goals (Ex: Friends, Your Closest Colleague or your Spouse/Husband). But here's what my concern is even your closest tribes may reduce the ability to challenge your ideas or your existing beliefs because no one wants you to hurt and also at the same time you are self-interested and encourage ideas and narratives that promote the survival of your tribe. This sentiment was coined by Morgon Housel as well. ***<mark>How often do your views get challenged by the people closest to you? Do you enjoy being wrong?</mark>***
 
@@ -92,7 +87,7 @@ The [fight against normalcy](https://click.convertkit-mail4.com/p9unvz7ge7c9h3rm
 
 ***<mark>Aim to be as authentic as possible</mark>*** and listen to your inner authentic voice rather than relying on external validations, does not matter even if the tribe is your closest - Optimize it to be the one where the foundation is built on top of the objective truth.
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1702954824984/e351daa4-8b16-4c81-809b-49eb516ae28f.png align="center")
+![](/assets/Travel/wbw.png)
 
 ### **Travel Changes The Way You Think**
 
@@ -100,7 +95,7 @@ Imagine a scenario where you take some time off from your routine, pack your bag
 
 If these are the core reasons that drive you to travel then it's almost similar to watching a feel-good movie in a theater, but a lot more expensive, because you are always looking and daydreaming about when your next trip is gonna be. Even most of the stuff that you post online with our current attention spans changing rapidly than ever, people will forget about it in a few days and get back to normal.
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1703499474210/c1eee147-06f7-4018-a8ab-000cf02c27b2.jpeg align="center")
+![](/assets/Travel/cosmos2.jpeg)
 
 **Instead**
 
@@ -164,8 +159,6 @@ We understand time as seconds, minutes, hours, months, and years, but our evolut
 **December 31, 23:59:59: The Tapestry of Human History**
 
 *<mark>All of human history right from the birth of the first homo sapien to the invention of math, physics, religions, monuments, cultures and doctrines, art, agriculture, kings, wars, science, and technology to where we are today - everything happened in the last secs of December 31st. It's something to think about, all of that entire history to happen to where we are today makes me think how valuable our own time is on this planet and how truly grateful for us to be alive. It's truly a gift and should make you think, and prioritize how you want to use your time on what you have</mark>*.
-
-%[https://www.youtube.com/watch?v=nOVvEbH2GC0] 
 
 Other Learnings I Have Had This Year
 
