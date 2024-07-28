@@ -1,10 +1,7 @@
 ---
 layout: page
-title: Blogs
 permalink: /blog/
 ---
-
-# My Blog Posts
 
 Here's a collection of my thoughts on various topics.
 
