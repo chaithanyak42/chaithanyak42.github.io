@@ -72,4 +72,5 @@ minima:
   
   #  - { platform: youtube,        user_url: "https://www.youtube.com/jekyll" }
 
-
+disqus:
+  shortname: cosmos42
