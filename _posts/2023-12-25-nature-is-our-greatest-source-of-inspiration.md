@@ -116,11 +116,11 @@ I was thinking about this in my last trek (Sandakphu Phalut) that most of us are
 
 I used to think about the immense strength that is required by these huge mountains, how the hell the ecosystems and biodiversity, the people who just go on with their daily chores around these mountains sustain the harsh climates and here I'm a trekker trying to fit into the same. <mark>Trying to get used to the negative temperatures in the winters, the harsh cold winds hitting your face without giving a damn about who you are, washing your utensils in the cold water, climbing a very long steep ascend with your 10 Kg rucksack, hiking hours in the rains to reach the next campsite, sweating yourself in the blazing hot sun and getting your blood sucked by the leeches (an experience I would never forget), struggling to fit into my sleeping bag and waking up as early as 4 am to start your days hike, trying to be awake late in the nights till 1-3 am or waking up to see the milky-way and many times being disappointed because of unclear skies</mark> and Life, akin to these challenges, mirrors a series of struggles- confronting the darkness, venturing into the unknown, absorbing numerous blows, and yet, remarkably, I always find the joy in the difficulty and when your heart opens in the presence of those one or two images you see after facing all the challenges is something to live for.
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1702887013103/3189d571-0a52-4cdf-820a-3278ec108425.jpeg align="center")
+![](/assets/Travel/phulhara.jpeg)
 
 *Always Find Joy In Doing The Difficult Things and walk Alongside Your Demons To Harness Them! This Is Not Just True W.R.T Trekking, It's True Of Everything In Life.*
 
 <div style="text-align: center;">
-  <img src="https://explorer1.jpl.nasa.gov/assets/images/galleries/cropped/1968_Earthrise_297755main_GPN-2001-000009_full.jpg" alt="1968: Earthrise (Apollo 8)" />
+  <img src="https://explorer1.jpl.nasa.gov/assets/images/galleries/cropped/2013_Cassini_20130722_annotated_earth-moon_from_saturn_1920x1080.jpg" alt="1968: Earthrise (Apollo 8)" />
   <p><em>1968: Earthrise (Apollo 8)</em></p>
 </div>
