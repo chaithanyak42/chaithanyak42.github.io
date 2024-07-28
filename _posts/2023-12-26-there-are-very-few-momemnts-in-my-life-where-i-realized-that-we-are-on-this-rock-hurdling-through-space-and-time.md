@@ -11,7 +11,7 @@ author:
 ## Contents
 
 1. [Humanity Is More Beautiful Than What You Think](#humanity-is-more-beautiful-than-what-you-think)
-2. [If People Looked Up At The Sky, They'd Live A Lot Differently](#if-people-looked-up-at-the-sky-theyd-live-a-lot-differently)
+2. [If People Looked Up At The Sky, They'd Live A Lot Differently - Calvin & Hobbes](#if-people-looked-up-at-the-sky-they'd-live-a-lot-differently---calvin-&-hobbes)
 3. [Curiosity Takes You Further Than Anything](#curiosity-takes-you-further-than-anything)
 4. [The Relationship You Have With Your Authentic Self - The Most Important](#the-relationship-you-have-with-your-authentic-self---the-most-important)
 5. [Travel Changes The Way You Think](#travel-changes-the-way-you-think)
@@ -21,8 +21,7 @@ author:
 9. [Think Long Term](#think-long-term)
 10. [Mood Follows Actions](#mood-follows-actions)
 
-
-[Read Part 1](https://chaithanyak42.github.io/travel/2023/12/25/nature-is-our-greatest-source-of-inspiration.html)
+[Read Part 1 Here](https://chaithanyak42.github.io/travel/2023/12/25/nature-is-our-greatest-source-of-inspiration.html)
 
 ### **Humanity Is More Beautiful Than What You Think**
 
@@ -32,7 +31,7 @@ There are many great things about hiking- the humongous snow-capped mountains, t
 
 And with people, you also get to learn about their culture, and different diversities, and the collective knowledge we share and learn from each other is what makes it so much more worth loving the people around you. I have had incredible luck and fortune to meet some amazing people who have inspired me and with whom I still hold a long-standing friendship even after the trek.
 
-### If People Looked Up At The Sky, They'd Live A Lot Differently - **Calvin & Hobbes**
+### **If People Looked Up At The Sky, They'd Live A Lot Differently - Calvin & Hobbes**
 
 Did You Know That
 
@@ -48,7 +47,7 @@ Did You Know That
 
 Below Is My First Image Of Milky Way
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1702889045899/6b1d10cb-3a1b-43e6-b74c-a0ce7e3b4707.jpeg align="center")
+![](/assets/Travel/mw.jpeg)
 
 From my early days, I was always fascinated by the mysteries of the cosmos. I used to always look up to the sky and wonder about our place in the stars. Thinking about what is the meaning of life given that we are all going to die at some point in time. This also led to my deep interest in generally understanding how things around us work - i.e. Physics. I wanted to become an astrophysicist if not an ML Engineer. Reading the snippets of Calvin and Hobbes, The Hitchhikers-Guide To The Galaxy, and watching movies/Shows like 2001 A Space Odyssey, Interstellar, and Big Bang Theory fueled my interest in learning more about the planets, stars, and everything about the Universe. I'm still a learner :)
 
@@ -56,19 +55,22 @@ From my early days, I was always fascinated by the mysteries of the cosmos. I us
 
 I'll Just keep exploring and learning more about this and you never know I might end up immersing myself completely into it.
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1702890229009/8d86a620-f7f6-4ff6-b6a3-0815d6ba5d84.jpeg align="center")
+![](/assets/Travel/mw2.jpeg)
 
 One of my dreams is to watch a rocket taking off and punch a hole into the night sky and capture a picture of a galaxy with my telescope :) and more importantly, get back to being a student and learn Physics the right way.
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1702890308559/f3c0d0a0-501b-41bd-b6db-733be63f65ed.jpeg align="center")
+![](/assets/Travel/ch.jpeg)
 
-%[https://www.youtube.com/watch?v=wupToqz1e2g] 
+<div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%;">
+    <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/wupToqz1e2g?si=UOPcwSyEY7ZXIZmz" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+
 
 ### **Curiosity Takes You Further Than Anything**
 
 One of the reasons I'd want to live longer and travel as much as possible is because of the curiosity and the hunger to learn more. I believe the curiosity to passionately learn something new every day takes you further than anything else. Until I started trekking I never knew how the Himalayas were formed or did not even know the fact that they were the youngest mountain ranges in the world Until one of the trekkers explained the entire story behind them. I went back to being a kid at that moment and ended up spending more time learning more.
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1702951833993/344eee52-262a-4275-8c78-a3d5f0e20032.jpeg align="center")
+![](/assets/Travel/phulhara2.jpeg)
 
 There's a difference between knowing the name of something versus actually knowing something and I think one should always aim to be the kind of person who knows the thing rather than a person who just knows how to talk about that thing and it's better to hang around with people of the same kind who knows about the thing they are talking rather than just talking. I think that's how you develop real, deep knowledge and you cannot have that mindset unless you are curious enough to learn new things, unlearn your existing beliefs, and replace them with the actual truth.
 
