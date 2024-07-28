@@ -3,7 +3,7 @@ layout: home
 title: Chaithanya Kumar
 ---
 
-[![Chaithanya Kumar A](/chaithanyak.github.io/assets/profile.jpg){: style="float: right; max-width: 33%; margin: 0 0 1em 2em; border-radius: 999px"}](https://x.com/ChaithanyaK42){:target="_blank"}
+[![Chaithanya Kumar A](/chaithanyak42.github.io/blob/master/assets/profile.jpg){: style="float: right; max-width: 33%; margin: 0 0 1em 2em; border-radius: 999px"}](https://x.com/ChaithanyaK42){:target="_blank"}
 
 Hi Everyone. I'm Chaithanya, a writer and Data Scientist. I was born to a lower-middle-class family in a small village in India, I was the first in my family to get any kind of formal education. Most of my productive time is spent learning about stuff that helps build AI models to solve real-world use cases & almost all my spare time goes into reading Paul Graham's [Essays](https://www.paulgraham.com/articles.html), The Feynman Lectures on [Physics](https://www.feynmanlectures.caltech.edu/) & [Karpathy's](https://karpathy.ai/) lessons on AI :)
 
