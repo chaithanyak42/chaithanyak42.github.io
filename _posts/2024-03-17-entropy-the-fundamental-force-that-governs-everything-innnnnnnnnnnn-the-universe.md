@@ -34,13 +34,12 @@ Have you ever wondered how,when you rub your hands together and share that warmt
 
 This Curiosity led to the discovery of Entropy and Rudolf Clausius summarised his findings as :
 
-![Image From Veritasium](https://cdn.hashnode.com/res/hashnode/image/upload/v1710657573956/3e865702-2b6b-4b1f-8825-69fe24f2eb96.png align="center")
+![Image From Veritasium](/assets/images/entropy.png)
 
 > Just like how without a constant supply of AC to your room in summer it get's hotter and hotter , how if you do not constantly work every day on your relationships someday you might eventually wake up to divorce papers and how you might be physically be in bad shape if you do not workout on a regular basis , ***<mark>Clausius said over time things will move from being ordered to a more disordered state</mark>*** ( similarly he figured out that in a steam engine , 100% of the energy was not being utilised as energy was spreading out over time and constant work had to be done to keep things moving)  
 
-Derek from the YouTube Channel **Veritasium** Beautifully explains the Entire concept of Entropy
+Derek from the YouTube Channel **Veritasium** Beautifully explains the Entire concept of [Entropy](https://www.youtube.com/watch?v=DxL2HoqLbyA)
 
-%[https://www.youtube.com/watch?v=DxL2HoqLbyA] 
 
 ### Entropy also explains why time always moves in one direction.
 
@@ -48,9 +47,7 @@ Derek from the YouTube Channel **Veritasium** Beautifully explains the Entire co
 > 
 > <cite>Stephen Hawking, A Brief History of Time</cite>
 
-Brian Cox Explaining The Arrow Of Time
-
-%[https://www.youtube.com/watch?v=vLACGFhDOp0] 
+Brian Cox Explaining The Arrow Of [Time](https://www.youtube.com/watch?v=vLACGFhDOp0)
 
 > *The Arrow of Time dictates that as each moment passes, things change, and once these changes have happened, they are never undone. Permanent change is a fundamental part of what it means to be human. We all age as the years pass by — people are born, they live, and they die. I suppose it’s part of the joy and tragedy of our lives, but out there in the universe, those grand and epic cycles appear eternal and unchanging. But that’s an illusion. See, in the life of the universe, just as in our lives, everything is irreversibly changing.*
 
@@ -72,7 +69,7 @@ This is why those who take advantage of Entropy and acknowledge that it's a natu
 
 The Kind of everyday Entropy that he is dealing with on a regular basis is something that's unimaginable to people like you and me. Take SpaceX and Tesla , Musk's Rocket and Electric car companies, By embracing the inevitable challenges in rocket launches and the energy transformation in cars , Musk turns entropy from a challenge into a opportunity for the advancement of Human species.
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1710660619538/f6eb5ed8-7920-4e42-96b1-405cddb8fdb3.png align="center")
+![](/assets/images/maxwell.png)
 
 ## <mark>Entropy In Artificial Intelligence</mark>
 
