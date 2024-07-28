@@ -50,7 +50,3 @@ Progress as of July 28th 2024 (2.27/37)
 <!-- Add more items to reach 100 -->
 
 Do you have any recommendations for my list? I'd love to hear your suggestions!
-
-  {%- if site.disqus.shortname -%}
-    {%- include disqus_comments.html -%}
-  {%- endif -%}
