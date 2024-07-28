@@ -20,7 +20,7 @@ author:
 
 I vividly remember the day as I write this when it was around 5:15 in the freezing cold morning at the Molley campsite and we were on our way to SabarGram to summit Phalut which is the 2nd highest peak in West Bengal(3600m) and also from its peak you would get to see some of planet earths highest mountains *<mark>The Everest (8849m), Kanchenjunga (8586m), Lhotse (8516m) & Makalu (8481m)</mark>*. It was just myself that early in the morning and there was no one at least 500 m behind or ahead of me, I just looked back to be greeted by the entire sky slowly getting covered in orange and that small dot you see is Jupiter.
 
-![](/assests/Travel/jupiter.jpeg align="center")
+![](/assets/Travel/jupiter.jpeg align="center")
 
 ### Embrace The Uncertainties In Life - Don't Plan Out Every Detail
 
