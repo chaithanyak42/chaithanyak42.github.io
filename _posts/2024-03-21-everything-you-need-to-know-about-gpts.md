@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Everything You Should Know About GPTs"
+title: "Everything You Should Know About GPTs - Generative Pre-Trained Transformers"
 categories: Machine Learning
 author:
 - Chaithanya Kumar A
