@@ -11,8 +11,8 @@ author:
 1. [Introduction](#introduction)
 2. [How Systems Like ChatGPT Are Built](#how-systems-like-chatgpt-are-built)
    - [Overview](#overview)
-3. [Phase 1: Pre-Training](#phase-1-pre-training)
-   - [What are we actually doing in this stage?](#what-are-we-actually-doing-in-this-stage)
+3. [Phase 1 Pre Training](#phase-1-pre-training)
+   - [What are we actually doing In this stage by collecting all this data ?](#what-are-we-actually-doing-in-this-stage-by-collecting-all-this-data-?)
    - [Algorithm/Objective - Language Modelling](#algorithmobjectiveavodaish-modelling)
    - [Mathematical Formulation](#mathematical-formulation)
 4. [Phase 2: Supervised Fine-Tuning (SFT)](#phase-2-supervised-fine-tuning-sft)
@@ -25,8 +25,11 @@ author:
    - [What Is RLHF?](#what-is-rlhf)
    - [Reward Modelling](#reward-modelling)
    - [Reinforcement Learning](#reinforcement-learning)
-6. [What Can These Models Currently Do?](#what-can-these-models-currently-do)
+6. [What Can These Models Currently Do?](#what-can-these-models-currently-do?)
 7. [Signing Off](#signing-off)
+
+
+# Introduction
 
 Ever since Google dropped their paper on transformers - [***<mark>Attention Is All You Need</mark>***](https://www.wired.com/story/eight-google-employees-invented-modern-ai-transformers-paper/) It's been a crazy ride in the tech landscape especially in the field of AI/ML which is rapidly accelerating with some of the key players like [**OpenAI**](https://openai.com/blog/planning-for-agi-and-beyond) , **Google**[DeepMind](https://deepmind.google/discover/the-podcast/the-road-to-agi/) , [Anthropic](https://www.anthropic.com/) and the thriving Open Source community led by [Meta](https://llama.meta.com/) and [Xai](https://x.ai/blog/grok) working towards achieving the Goal Of ***Artificial General Intelligence (AGI).***
 
@@ -76,7 +79,7 @@ Each of these stages will have a Dataset that we use to train the underlying mod
 
 ![Image](https://pbs.twimg.com/media/FpEdw9-aEAIq4d7?format=jpg&name=small align="left")
 
-## ***Phase -1 : Pre-Training***
+## ***Phase 1 Pre Training***
 
 Pre-Training is the phase-1 of building a model like ChatGPT. This is the phase where you collect large volumes of Internet data at scale which is of very low quality and build a foundational/base model called Pre-Trained LLM. The training dataset is a mixture of several sources ranging from Common Crawl of Internet , GitHub , Wikipedia and many sources. A model like LLaMA-2 from Meta uses almost 2-T tokens of Internet data for It's training. A 2 trillion token dataset is truly massive. To put It In perspective, If each token was a word and you printed out the dataset In books, you would have a library of around 4 million 500-page books. The below Is the data distribution of LLaMA model
 
