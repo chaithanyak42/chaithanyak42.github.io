@@ -12,26 +12,26 @@ author:
 2. [How Systems Like ChatGPT Are Built](#how-systems-like-chatgpt-are-built)
    - [Overview](#overview)
 3. [Phase 1 Pre Training](#phase-1-pre-training)
-   - [What are we actually doing In this stage by collecting all this data ?](#what-are-we-actually-doing-in-this-stage-by-collecting-all-this-data-?)
-   - [Algorithm/Objective - Language Modelling](#algorithmobjectiveavodaish-modelling)
+   - [What are we actually doing In this stage by collecting all this data](#what-are-we-actually-doing-in-this-stage-by-collecting-all-this-data)
+   - [Language Modelling](#language-modelling)
    - [Mathematical Formulation](#mathematical-formulation)
-4. [Phase 2: Supervised Fine-Tuning (SFT)](#phase-2-supervised-fine-tuning-sft)
+4. [Phase 2 Supervised Fine Tuning](#phase-2-supervised-fine-tuning)
    - [Intuition Behind SFT](#intuition-behind-sft)
-   - [SFT: Dataset](#sft-dataset)
-   - [SFT: Algorithm / Objective](#sft-algorithm--objective)
+   - [SFT Data set](#sft-data-set)
+   - [SFT Objective](#sft-objective)
    - [SFT: Mathematical Formulation](#sft-mathematical-formulation)
-5. [Phase 3 & 4: Reinforcement Learning With Human Feedback](#phase-3--4-reinforcement-learning-with-human-feedback)
-   - [Why RLHF?](#why-rlhf)
-   - [What Is RLHF?](#what-is-rlhf)
+5. [Phase 3 and 4 Reinforcement Learning With Human Feedback](#phase-3-and-4-reinforcement-learning-with-human-feedback)
+   - [Why RLHF](#why-rlhf)
+   - [What Is RLHF](#what-is-rlhf)
    - [Reward Modelling](#reward-modelling)
    - [Reinforcement Learning](#reinforcement-learning)
-6. [What Can These Models Currently Do?](#what-can-these-models-currently-do?)
+6. [What Can These Models Currently Do](#what-can-these-models-currently-do)
 7. [Signing Off](#signing-off)
 
 
 # Introduction
 
-Ever since Google dropped their paper on transformers - [***<mark>Attention Is All You Need</mark>***](https://www.wired.com/story/eight-google-employees-invented-modern-ai-transformers-paper/) It's been a crazy ride in the tech landscape especially in the field of AI/ML which is rapidly accelerating with some of the key players like [**OpenAI**](https://openai.com/blog/planning-for-agi-and-beyond) , **Google**[DeepMind](https://deepmind.google/discover/the-podcast/the-road-to-agi/) , [Anthropic](https://www.anthropic.com/) and the thriving Open Source community led by [Meta](https://llama.meta.com/) and [Xai](https://x.ai/blog/grok) working towards achieving the Goal Of ***Artificial General Intelligence (AGI).***
+Ever since Google dropped their paper on transformers - [***<mark>Attention Is All You Need</mark>***](https://www.wired.com/story/eight-google-employees-invented-modern-ai-transformers-paper/)  It's been a crazy ride in the tech landscape especially in the field of AI/ML which is rapidly accelerating with some of the key players like [**OpenAI**](https://openai.com/blog/planning-for-agi-and-beyond) ,[**Google Deepmind**](https://deepmind.google/discover/the-podcast/the-road-to-agi/) , [**Anthropic**](https://www.anthropic.com/) and the thriving Open Source community led by [**Meta AI**](https://llama.meta.com/) and [**Xai**](https://x.ai/blog/grok) working towards achieving the Goal Of ***Artificial General Intelligence (AGI).***
 
 > *Now, if you're scratching your head and wondering what the heck AGI is, don't worry. You're not alone. In simple terms, AGI is the idea of creating a machine that can think and learn like a human. It's like giving birth to a super-intelligent robot baby.*
 
@@ -94,7 +94,7 @@ so much of data Is being used to train these models that we might eventually run
 
 ![](/assets/GPTs/scale.avif)
 
-### ***What are we actually doing In this stage by collecting all this data ?***
+### ***What are we actually doing In this stage by collecting all this data***
 
 Before we feed this raw text data (This Is called as the Training Data) Into the models we need to convert them Into something they are able to understand. Unlike humans , machines does not have the capability to understand what a word Is In It's raw form and hence they have to be converted Into something called tokens. ***<mark>This process of converting the text Into unique Integers or tokens is called Tokenization.</mark>***
 
@@ -102,7 +102,9 @@ You can think of tokens as a word , a character or even a sub-word of a word (Li
 
 ![](/assets/GPTs/tokenisation.avif)
 
-***Algorithm/Objective* - *Language Modelling*** : The key objective In this phase Is to train this model on huge volume of low quality data so that It's able to accurately predict with a certain probability what's going to come next when an Input (Prompt) Is given by the users , i'e *<mark>predicting the next word/token</mark>*. Basically a Pre-Trained GPT Is optimised for ***<mark>Text Completion.</mark>*** This Is what Is called as Language Modelling.
+### **Language Modelling**
+
+The key objective In this phase Is to train this model on huge volume of low quality data so that It's able to accurately predict with a certain probability what's going to come next when an Input (Prompt) Is given by the users , i'e *<mark>predicting the next word/token</mark>*. Basically a Pre-Trained GPT Is optimised for ***<mark>Text Completion.</mark>*** This Is what Is called as Language Modelling.
 
 ***You Complete Me : Give A Prompt & Wait For Completion :)***
 
@@ -120,7 +122,7 @@ If you are Interested In knowing how these models are ( also one of the core rea
 
 Pre-Training Is the stage where most of the hard work happens , almost 85-98% of resources are likely to be used during this stage right from Data to Computation. This stage is almost similar to you working out  and sweating hard in the gym ( since you have Pre-trained It on huge volumes of data for months , now the model as a better understanding of the Data and It's relationships) and the subsequent stages are likely going to be super grateful for your help for making it easier for them. It’s like opening your creative boost of energy after a really good workout at the gym.
 
-### ***Pre-Training : Mathematical Formulation***
+### ***Mathematical Formulation***
 
 `Machine Learning Task : Language Modelling i'e Predicting The Next Word`  
 `Training Data Input : High Quantity , Low Quality Internet Data`  
@@ -144,9 +146,9 @@ Pre-Training Is the stage where most of the hard work happens , almost 85-98% of
 > * Resource Intensive : Massive amount of Data , 1000s Of GPUs , Years to Months of Training. Millions of $$$ of money spent :)
 >     
 
-## ***Phase - 2 : Supervised Fine-Tuning ( SFT )***
+## ***Phase 2 Supervised Fine Tuning***
 
-### ***Intuition Behind SFT ( Why SFT ? )***
+### ***Intuition Behind SFT***
 
 During the Pre-Training stage we know that we train the model on a large body of text data with the key objective of predicting the next word by assigning a higher probability to the predicted word over other words in the vocabulary. By doing so the model is very capable of generating texts. The problem is these models are ***<mark>not good at "Communication" or In general generating texts that Is aligned with Interest of the user.</mark>***
 
@@ -167,7 +169,7 @@ Ex : I Prompted Gemma-2B , an Open Source Pre-Trained GPT from Google.
 
 So , now you get why cannot we use Pre-Trained models as It Is. Like we saw In the Pre-Training phase they are optimised for text completion. You can still get the desired output by changing the Input text In a way that will solve your problem ( This area Is called Prompt Engineering ! ) , but this Is not a convenient Interaction for folks who are not experts, you expect these models to the job and a model that can consistently answer the queries and not just complete them. ***<mark>Basically we need models that can behave how a human behaves when he/she Is asked with a Question Or we need models that Is optimised to achieve a specific task like Q &amp; A , Code Generation , Summarising and rewriting , rephrasing texts etc and we need to guide models towards this behaviour . This Is what we do In SFT.</mark>***
 
-### ***SFT : Data Set***
+### ***SFT Data Set***
 
 How do you do that ? We know any kind of ML models mimic It's training data. Hence during SFT we fine-tune our Pre-Trained GPT model with a dataset that tells how to appropriately respond to a specific prompt( Like how to respond to a prompt for Q&A , translation etc). We create a High Quality dataset ( called demonstration data because through this data we demonstrate these models how to behave and respond properly). ***<mark>The way we do this Is by collecting a bunch of data annotated by humans ( these humans are experts In a specific area , ex: A Physics expert Is preparing the training data to create a model that responds properly when tasked with Physics questions ) In the following format </mark>*** `{ Prompt , Response }`  
 Below Is the distribution of Prompts (Use-Case Specific) used by OpenAI to fine-tune a Pre-Trained GPT
@@ -184,11 +186,11 @@ Look at the below example from OpenAI clearly showing the differences between th
 
 ![](/assets/GPTs/sftvspt.avif)
 
-### SFT : Algorithm / Objective
+### **SFT Objective**
 
 Language modelling i’e optimised for text completion but for a specific use case as we discussed above In required format , nothing changes we are just changing out the training dataset.
 
-### SFT : Mathematical Formulation
+### **SFT Mathematical Formulation**
 
 `ML Task : Language Modelling`
 
@@ -215,11 +217,11 @@ Language modelling i’e optimised for text completion but for a specific use ca
 > * These models can be trained on a weekly basis , less expensive to train compared to Pre-Training.
 >     
 
-## Phase 3 & 4 - Reinforcement Learning With Human Feedback
+## **Phase 3 and 4 Reinforcement Learning With Human Feedback**
 
 The real technical marvel of why ChatGPT models are so good at what they do Is mainly attributed to RLHF - Incorporating Reinforcement Learning and Human Feedback Into Language modelling.
 
-### Why RLHF ?
+### **Why RLHF**
 
 There's no single valid reason In the AI community on why RLHF is needed. The simple answer Is It just Improves the Performance and Works. As we see In the below Image InstructGPT (RLHF + SFT ) outperforms SFT alone.
 
@@ -236,7 +238,7 @@ Here's a great In-depth note by [Yoav Goldberg](https://gist.github.com/yoavg/6b
 > * ***<mark>Teaching to Abstain:</mark>*** Supervised learning struggles to teach models to abstain from answering when they lack knowledge, whereas RL can be designed to reward "I don't know" responses appropriately, although finding the right balance in rewards is challenging.
 >     
 
-## What Is RLHF ?
+## **What Is RLHF**
 
 We know that In SFT we teach the model how to behave and respond with appropriate answers to the prompts and essentially making them good at communication and dialogue. But just like how, say If you ask a question like "Explain Why The Sky Is Blue" to 10 different people , you might get 10 different answers, the SFT model also will generate many such different responses and we don't actually teach which response Is better than which In SFT.
 
@@ -300,7 +302,7 @@ Reinforcement learning Is still an active area of research currently being done 
 
 This has really been amazing writing this piece of blog , there are still a lot of topics that I wanted touch base upon ( actually wanted to dig deep Into RLHF and learn the maths for better explanation , I'll probably do this sometime later ) like hallucination problem with ChatGPT , It's one dimensional knowledge and a lot more , bias, GPT OS , Jail-breaking GPTs and Prompt Injection etc . I'll try covering them In another blog.
 
-### What Can These Models Currently Do ?
+### **What Can These Models Currently Do**
 
 Finally I want to answer the question what can actually these models do given there nature of understanding huge volumes of the text data.
 
