@@ -78,19 +78,21 @@ Each of these stages will have a Dataset that we use to train the underlying mod
     
 
 ![](/assets/GPTs/shoggoth.jpg)
+
 Courtesy of x.com/anthrupad
 
 ## ***Phase 1 Pre Training***
 
 Pre-Training is the phase-1 of building a model like ChatGPT. This is the phase where you collect large volumes of Internet data at scale which is of very low quality and build a foundational/base model called Pre-Trained LLM. The training dataset is a mixture of several sources ranging from Common Crawl of Internet , GitHub , Wikipedia and many sources. A model like LLaMA-2 from Meta uses almost 2-T tokens of Internet data for It's training. A 2 trillion token dataset is truly massive. To put It In perspective, If each token was a word and you printed out the dataset In books, you would have a library of around 4 million 500-page books. The below Is the data distribution of LLaMA model
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1710988361993/4ab1bbf3-cbc6-450b-a6b9-5dc9a5fd82ce.png align="center")
+![](/assets/GPTs/dd.avif)
 
 so much of data Is being used to train these models that we might eventually run out of the data to train and likely need to rely on synthetic data generation or propriety data from companies ( Those companies which will get their hands on this data will surely have an edge)
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1710988963766/03047c14-e06e-4760-b0bf-0d4cee1e24db.png align="center")
+![](/assets/GPTs/datasize.avif)
 
-The above Image Is the courtesy Of [**Chip Huyen.**](https://huyenchip.com/)
+
+![](/assets/GPTs/scale.avif)
 
 ### ***What are we actually doing In this stage by collecting all this data ?***
 
@@ -98,7 +100,7 @@ Before we feed this raw text data (This Is called as the Training Data) Into the
 
 You can think of tokens as a word , a character or even a sub-word of a word (Like -meda In Andromeda) depending on the model that is being used. Below is an example of how OpenAI GPT-4 tokenizer converts a text into set of unique Tokens. You can try It for yourself [<mark>here</mark>](https://platform.openai.com/tokenizer). All these Unique set of tokens becomes a Vocabulary for the GPT model and you can think of this as GPTs own dictionary. More the unique tokens It as access to , more the Variety In Generating the texts.
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1711005080661/3739a63a-a1ae-4945-9b38-dec4a9bbfd26.jpeg align="center")
+![](/assets/GPTs/tokenisation.avif)
 
 ***Algorithm/Objective* - *Language Modelling*** : The key objective In this phase Is to train this model on huge volume of low quality data so that It's able to accurately predict with a certain probability what's going to come next when an Input (Prompt) Is given by the users , i'e *<mark>predicting the next word/token</mark>*. Basically a Pre-Trained GPT Is optimised for ***<mark>Text Completion.</mark>*** This Is what Is called as Language Modelling.
 
@@ -108,11 +110,11 @@ You can think of tokens as a word , a character or even a sub-word of a word (Li
 
 Let's explain this with a simple example :
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1710993297758/f4a9e905-752f-4e8c-8d0f-8d437b3c8b81.png align="center")
+![](/assets/GPTs/nn.avif)
 
 Suppose let's say when you feed something like "What is your favourite" (Context of 4 words here) to the GPT model , It's trained to predict what's likely going to come next In order to complete the sentence with a higher probability. It can be anything like "Car" , "Movie" , "Sport" , "Colour" etc. The model takes one token at a time and predicts next one by looking at the entire context. You might think this Is very simple that the model Is just trying to predict next word/token , but In doing so It actually Is learning a lot more about the language and It's properties. *<mark>For example : when you feed the below Wikipedia article about Virat Kolhi , the model is able to understand a lot of underlying representations about Virat like his profession , gender , nationality , achievements and accolades etc. So you can Imagine how powerful these models are even though It's just predicting next word.</mark>*
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1710991279631/6064a644-4872-46e6-9d64-3ac00ac42b60.png align="center")
+![](/assets/GPTs/wiki.avif)
 
 If you are Interested In knowing how these models are ( also one of the core reasons Is the more data and compute being thrown at these models ) getting better over time and want to know the underlying principle that guides, you can checkout my blog on [***<mark>Entropy : The Fundamental Force That Governs Everything In The Universe</mark>***](https://chaithanyak.com/entropy-the-fundamental-force-that-governs-everything-in-the-universe)***<mark>.</mark>***
 
@@ -127,7 +129,7 @@ Pre-Training Is the stage where most of the hard work happens , almost 85-98% of
 
 ---
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1711022993238/7509d78f-3710-4a8c-82b6-e83246f64f22.png align="center")
+![](/assets/GPTs/mfpt.avif)
 
 > Pre-Training Summary
 > 
@@ -161,7 +163,7 @@ Ex : I Prompted Gemma-2B , an Open Source Pre-Trained GPT from Google.
 **Prompt : Which is the nearest star**  
 **Response :**
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1711024802576/acfb4465-e91c-456f-837d-f664d229316b.png align="center")
+![](/assets/GPTs/earth.avif)
 
 So , now you get why cannot we use Pre-Trained models as It Is. Like we saw In the Pre-Training phase they are optimised for text completion. You can still get the desired output by changing the Input text In a way that will solve your problem ( This area Is called Prompt Engineering ! ) , but this Is not a convenient Interaction for folks who are not experts, you expect these models to the job and a model that can consistently answer the queries and not just complete them. ***<mark>Basically we need models that can behave how a human behaves when he/she Is asked with a Question Or we need models that Is optimised to achieve a specific task like Q &amp; A , Code Generation , Summarising and rewriting , rephrasing texts etc and we need to guide models towards this behaviour . This Is what we do In SFT.</mark>***
 
@@ -170,17 +172,17 @@ So , now you get why cannot we use Pre-Trained models as It Is. Like we saw In t
 How do you do that ? We know any kind of ML models mimic It's training data. Hence during SFT we fine-tune our Pre-Trained GPT model with a dataset that tells how to appropriately respond to a specific prompt( Like how to respond to a prompt for Q&A , translation etc). We create a High Quality dataset ( called demonstration data because through this data we demonstrate these models how to behave and respond properly). ***<mark>The way we do this Is by collecting a bunch of data annotated by humans ( these humans are experts In a specific area , ex: A Physics expert Is preparing the training data to create a model that responds properly when tasked with Physics questions ) In the following format </mark>*** `{ Prompt , Response }`  
 Below Is the distribution of Prompts (Use-Case Specific) used by OpenAI to fine-tune a Pre-Trained GPT
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1711026101369/db3b6741-7c94-4eb8-887d-ec6a479c97aa.png align="center")
+![](/assets/GPTs/scale.avif)
 
 This Is how the training data would look like
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1711026837566/c09b0bcf-fb68-4522-8280-1dee30bc1683.png align="center")
+![](/assets/GPTs/scale.avif)
 
 SFT is also called as [alignment](https://openai.com/research/instruction-following).
 
 Look at the below example from OpenAI clearly showing the differences between the response from a Pre-Trained GPT V/s a SFT GPT
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1711026338976/f7089781-9edb-4499-ae25-4d1b4677e1dd.png align="center")
+![](/assets/GPTs/scale.avif)
 
 ### SFT : Algorithm / Objective
 
