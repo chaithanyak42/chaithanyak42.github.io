@@ -37,7 +37,7 @@ Ever since Google dropped their paper on transformers - [***<mark>Attention Is A
 
 It seems like OpenAI is leading the race towards AGI and no one really knows for sure how long It'll take us before we reach that point ( some say it's around the corner like Elon Musk is pretty optimistic ***<mark>"AI will probably be smarter than any single human next year. By 2029, AI is probably smarter than all humans combined" </mark>*** and Yann Lecun ***<mark>" T</mark>*<mark>his notion of Artificial General Intelligence (AGI) is complete nonsense because human intelligence is very, very specialised" </mark>** )
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1710981970338/ecb00380-01a1-4858-8287-ae35d8000f06.png align="center")
+![](/assets/GPTs/yann.avif)
 
 Whatever the case maybe I truly believe we are going through one of the most fundamental and significant changes In the history of humanity through AI and we are In for one hell of a ride. *It's really an amazing time to be alive to witness this happening and be part of it and contribute In whatever way possible :)*
 
@@ -45,7 +45,7 @@ In this post I wanted to discuss about one such System that has captured the Ima
 
 I assume that a System like ChatGPT has already somewhat become a part of your daily life either using It to bounce off your creative ideas and brainstorm with it , analyse a piece of long document , help fix a bug In your code or actually create your own AI mentor just like how I did and have access to the best minds In world. Trust me It's truly one of the best times to be alive
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1710984503391/8a0e329d-9538-4820-86af-3815ccf5e7c3.jpeg align="center")
+![](/assets/GPTs/aiteacher.avif)
 
 But there's one thing that kind of stuck with me from the past few weeks was how people sometimes underestimate and largely overestimate the capabilities of such models. Whether the question of these Systems "has It really Impacted the lives of every Individual Or It Impacted only a handful of folks who are eager to try new tools and adopt Into their day-to-day lives? How has AI changed the way we work , collaborate and live?" may be It's a whole new topic altogether". **I believe there's a basic necessity for people to have an high level understanding of what these systems are , what can they do and what can't they do and what's likely going to be the future of It - that's exactly what I wanted to talk about In this post. Demystifying GPTs**
 
@@ -64,7 +64,7 @@ Let's dive In and understand what It really takes to create a model like ChatGPT
 
 Let's have broader view of E2E development process of ChatGPT
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1710986371285/9d6474c5-99c0-4e9c-991a-126186db1efa.jpeg align="center")
+![](/assets/GPTs/gptarchitecture.avif)
 
 The summary of the above diagram : In order to create or build a model like ChatGPT and put Into the real world , you'll have to go through 4 Phases : **<mark>Pre-Training , Supervised Fine-Tuning , RLHF ( Reinforcement Learning From Human Feedback ) which involves Reward Modelling and Reinforcement Learning.</mark>**
 
@@ -77,7 +77,8 @@ Each of these stages will have a Dataset that we use to train the underlying mod
 3. Finally you have the RLHF stage where you just don't supervise the model , but also enable the model to make mistakes , learn from It's failures long enough that it's now tuned enough to be socially acceptable to be put into the real world. This the model that you , me and everyone else Is using.
     
 
-![Image](https://pbs.twimg.com/media/FpEdw9-aEAIq4d7?format=jpg&name=small align="left")
+![](/assets/GPTs/shoggoth.jpg)
+Courtesy of x.com/anthrupad
 
 ## ***Phase 1 Pre Training***
 
