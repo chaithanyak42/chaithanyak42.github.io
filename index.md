@@ -4,7 +4,9 @@ layout: home
 
 [![Chaithanya Kumar A](/assets/profile.jpg){: style="float: right; max-width: 33%; margin: 0 0 1em 2em; border-radius: 999px"}](https://x.com/ChaithanyaK42){:target="_blank"}
 
-Hi Everyone. I'm Chaithanya, a Data Scientist and a writer. I was born to a lower-middle-class family in a small village in India, I was the first in my family to get any kind of formal education. 
+Hi Everyone. I'm Chaithanya, a Coder and a writer. 
+
+Everyday I'm taking small steps towards figuring out How To Do What You [Love](https://paulgraham.com/love.html) , [Great Work](https://paulgraham.com/greatwork.html) & [Hard Work](https://paulgraham.com/hwh.html) 
 
 Most of my productive time is spent learning about the stuff that helps me build AI models to solve real-world use cases & almost all my spare time goes into reading Paul Graham's [Essays](https://www.paulgraham.com/articles.html), The Feynman Lectures on [Physics](https://www.feynmanlectures.caltech.edu/) & [Karpathy's](https://karpathy.ai/) lessons on AI :)
 
