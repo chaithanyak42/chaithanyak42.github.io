@@ -9,14 +9,14 @@ permalink: /list-100/
 [Chip Huyen](https://huyenchip.com/) was the inspiration behind puuting something like this :) 
 
 These are the 100 things that I'd like to do in my lifetime. Let me know if you have any recommendations that you think should be part of this list!
-Progress as of July 28th 2024 (2.27/42)
+Progress as of October  22nd 2024 (2.573/42)
 
 1. ✅ Watch a christopher nolan movie in IMAX - Oppenhiemer :)  
 2. Learn how things around us work - study physics & astrophysics
 3. Experience aurora borealis
 4. Experience sky diving in Dubai & Franz Josef in New Zealand
 5. Learn a musical instrument (Piano/Guitar) ~ I'd like to play the **Interstellar** theme song someday :)
-6. Do at least 15 Himalayan treks - *Progress: 2/15* 
+6. Do at least 15 Himalayan treks - *Progress: 3/15* 
 8. Read the best 100 books (These are the [books](https://chaithanyak42.github.io/books/) that I'd like to revisit every year)
 9. Take a picture of a distant galaxy (This [Youtube](https://www.youtube.com/watch?v=zKDe094o-Q8) video sparked my interest)
 10. Learn astrophotography
@@ -30,7 +30,7 @@ Progress as of July 28th 2024 (2.27/42)
 18. ✅ Attend the Coldplay musical concert 
 19. Fall in love & get married to the person I love
 20. Meet **Lex Fridman**
-21. Run a full , half  marathon & a 10k
+21. Run a full , half  marathon & a 10k - Did a 10k recently :)
 22. Become an endurance athlete 
 23. Go on an African safari
 24. Work towards being one of the best AI minds & add value to people's lives through technology. 
