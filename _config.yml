@@ -32,9 +32,7 @@ header_pages:
   - blog.md
   - reading-list.md
   - list-100.md
-  - travel.md
   - quotes.md
-  - books.md
   - about.md
 
 #Set to `true` to show excerpts on the homepage.
