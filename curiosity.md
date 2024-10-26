@@ -4,43 +4,33 @@ title: Curiosity
 permalink: /curiosity/
 ---
 
-A curated collection of everything that has shaped my thinking - from essays and books to blogs and videos. Think of it as my personal knowledge vault of intellectual treasures that I keep revisiting.
+"The important thing is not to stop questioning. Curiosity has its own reason for existence." - Einstein
 
-<!-- Search Box -->
-<div class="search-container">
-  <input 
-    type="text" 
-    id="searchInput" 
-    placeholder="Search by title, author, or tags..."
-    class="search-box"
-  >
-</div>
+A collection of essays, books, research papers, and ideas that have fundamentally altered my thinking and expanded my curiosity. Each piece chosen here has either challenged my existing beliefs or opened new avenues of thought.
 
 <!-- Main Content -->
-<div class="reading-list">
+<div class="curiosity-grid">
   {% for item in site.curiosity reversed %}
-    <article class="reading-item" data-title="{{ item.title | downcase }}" data-author="{{ item.author | downcase }}" data-tags="{{ item.tags | join: ' ' | downcase }}">
-      <h3>
-        <a href="{{ item.link }}" target="_blank">{{ item.title }}</a>
-      </h3>
+    <article class="curiosity-item">
+      <div class="item-content">
+        <h3>
+          <a href="{{ item.link }}" target="_blank">{{ item.title }}</a>
+        </h3>
 
-      <div class="metadata">
-        <span class="type">{{ item.type }}</span> • 
-        <span class="author">by {{ item.author }}</span> • 
-        <span class="date">{{ item.date | date: "%B %Y" }}</span>
-      </div>
-
-      {% if item.tags %}
-        <div class="tags">
-          {% for tag in item.tags %}
-            <span class="tag">{{ tag }}</span>
-          {% endfor %}
+        <div class="item-meta">
+          <span class="item-type">{{ item.type }}</span>
+          <span class="item-author">{{ item.author }}</span>
+          <time>{{ item.date | date: "%B %Y" }}</time>
         </div>
-      {% endif %}
 
-      {% if item.notes %}
-        <p class="notes">{{ item.notes }}</p>
-      {% endif %}
+        {% if item.tags %}
+          <div class="item-tags">
+            {% for tag in item.tags %}
+              <span class="tag">{{ tag }}</span>
+            {% endfor %}
+          </div>
+        {% endif %}
+      </div>
     </article>
   {% endfor %}
 </div>
@@ -65,99 +55,128 @@ A curated collection of everything that has shaped my thinking - from essays and
 </div>
 
 <style>
-  .search-container {
-    margin-bottom: 2em;
-  }
+.curiosity-grid {
+  margin-top: 2rem;
+}
 
-  .search-box {
-    width: 100%;
-    padding: 0.8em;
-    font-size: 1em;
-    border: 1px solid #ddd;
-    border-radius: 4px;
-    margin-bottom: 1em;
-  }
+.curiosity-item {
+  margin-bottom: 2.5rem;
+  padding-bottom: 1.5rem;
+  border-bottom: 1px solid #eee;
+  transition: transform 0.2s ease;
+}
 
-  .reading-item {
-    margin-bottom: 2em;
-    padding-bottom: 1em;
-    border-bottom: 1px solid #eee;
-  }
+.curiosity-item:hover {
+  transform: translateX(5px);
+}
 
-  .metadata {
-    font-size: 0.9em;
-    color: #666;
-    margin: 0.5em 0;
-  }
+.curiosity-item h3 {
+  margin-bottom: 0.5rem;
+}
 
-  .tags {
-    margin: 0.5em 0;
-  }
+.curiosity-item h3 a {
+  color: #333;
+  text-decoration: none;
+  font-size: 1.3rem;
+  font-weight: 600;
+}
 
-  .tag {
-    background: #f0f0f0;
-    padding: 0.2em 0.6em;
-    border-radius: 3px;
-    font-size: 0.8em;
-    margin-right: 0.5em;
-  }
+.curiosity-item h3 a:hover {
+  color: #0066cc;
+}
 
-  .notes {
-    font-size: 0.9em;
-    margin-top: 0.5em;
-  }
+.item-meta {
+  font-size: 0.9rem;
+  color: #666;
+  margin: 0.5rem 0;
+  display: flex;
+  gap: 1rem;
+}
 
-  .archives {
-    margin-top: 3em;
-    padding-top: 2em;
-    border-top: 2px solid #eee;
-  }
+.item-type {
+  color: #0066cc;
+  font-weight: 500;
+}
 
-  .archive-group {
-    margin-bottom: 2em;
-  }
+.item-tags {
+  margin-top: 0.8rem;
+  display: flex;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
 
-  .archive-group h3 {
-    color: #555;
-    margin-bottom: 0.5em;
-  }
+.tag {
+  font-size: 0.8rem;
+  padding: 0.2rem 0.6rem;
+  background: #f5f5f5;
+  border-radius: 3px;
+  color: #666;
+}
 
-  .archive-group ul {
-    list-style: none;
-    padding-left: 0;
+/* Archives Styling */
+.archives {
+  margin-top: 4rem;
+  padding-top: 2rem;
+  border-top: 2px solid #eee;
+}
+
+.archives h2 {
+  font-size: 1.8rem;
+  margin-bottom: 2rem;
+  color: #333;
+}
+
+.archive-group {
+  margin-bottom: 2rem;
+}
+
+.archive-group h3 {
+  color: #0066cc;
+  font-size: 1.2rem;
+  margin-bottom: 1rem;
+  font-weight: 500;
+}
+
+.archive-group ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.archive-group li {
+  margin-bottom: 0.8rem;
+  display: flex;
+  align-items: baseline;
+  gap: 0.5rem;
+}
+
+.archive-group li a {
+  color: #333;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.archive-group li a:hover {
+  color: #0066cc;
+}
+
+.archive-author {
+  font-size: 0.9rem;
+  color: #666;
+}
+
+@media (max-width: 768px) {
+  .item-meta {
+    flex-direction: column;
+    gap: 0.3rem;
   }
 
   .archive-group li {
-    margin-bottom: 0.5em;
+    flex-direction: column;
+    gap: 0.2rem;
   }
 
   .archive-author {
-    font-size: 0.9em;
-    color: #666;
-    margin-left: 0.5em;
+    margin-left: 0;
   }
+}
 </style>
-
-<script>
-document.addEventListener('DOMContentLoaded', function() {
-  const searchInput = document.getElementById('searchInput');
-  const items = document.querySelectorAll('.reading-item');
-
-  searchInput.addEventListener('input', function(e) {
-    const searchTerm = e.target.value.toLowerCase();
-
-    items.forEach(item => {
-      const title = item.dataset.title;
-      const author = item.dataset.author;
-      const tags = item.dataset.tags;
-
-      const shouldShow = 
-        title.includes(searchTerm) || 
-        author.includes(searchTerm) || 
-        tags.includes(searchTerm);
-
-      item.style.display = shouldShow ? 'block' : 'none';
-    });
-  });
-});
-</script>
