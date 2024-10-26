@@ -6,7 +6,7 @@ permalink: /curiosity/
 A curated collection of everything that has shaped my thinking - from essays and books to blogs and videos. Think of it as my personal knowledge vault of intellectual treasures that I keep revisiting.
 
 <div class="reading-list">
-  {% for item in site.reading reversed %}
+  {% for item in site.curiosity reversed %}
     <article class="reading-item">
       <h3>
         <a href="{{ item.link }}" target="_blank">{{ item.title }}</a>
