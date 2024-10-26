@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Reading List
-permalink: /reading-list/
+title: Curiosity
+permalink: /curiosity/
 ---
 A curated collection of everything that has shaped my thinking - from essays and books to blogs and videos. Think of it as my personal knowledge vault of intellectual treasures that I keep revisiting.
 

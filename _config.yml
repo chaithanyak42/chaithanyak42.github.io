@@ -21,7 +21,7 @@ plugins:
 
 # Add this under plugins section
 collections:
-  reading:
+  curiosity:
     output: true
 
 # Theme-specific settings
@@ -30,7 +30,7 @@ collections:
 # in order as they should show up.
 header_pages:
   - blog.md
-  - reading-list.md
+  - curiosity.md
   - list-100.md
   - quotes.md
   - about.md
