@@ -6,6 +6,7 @@ permalink: /curiosity/
 
 "The important thing is not to stop questioning. Curiosity has its own reason for existence." - Einstein
 
+
 A collection of essays, books, research papers, and ideas that have fundamentally altered my thinking and expanded my curiosity. Each piece chosen here has either challenged my existing beliefs or opened new avenues of thought.
 
 <!-- Main Content -->
