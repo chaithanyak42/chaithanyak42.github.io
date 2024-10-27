@@ -6,10 +6,10 @@ permalink: /list-100/
 
 # 100 Things I’d Like to Do in My Lifetime
 
-[Chip Huyen](https://huyenchip.com/) was the inspiration behind puting something like this :) 
+[Chip Huyen](https://huyenchip.com/) inspired me to create this list. :)
 
-These are the 100 things that I'd like to do in my lifetime. Let me know if you have any recommendations that you think should be part of this list!
-Progress as of October  22nd 2024 (2.573/42)
+These are the 100 aspirations I hope to achieve in my lifetime. I'd love to hear if you have any suggestions that deserve to be on this list!
+Progress as of October 22nd, 2024: Completed 2.573 out of 42.
 
 1. ✅ Watch a christopher nolan movie in IMAX - Oppenhiemer :)  
 2. Learn how things around us work - study physics & astrophysics
