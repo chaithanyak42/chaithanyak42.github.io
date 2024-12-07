@@ -4,8 +4,6 @@ layout: home
 
 [![Chaithanya Kumar A](/assets/profile.jpg){: style="float: right; max-width: 25%; margin: 0 0 1em 2em; border-radius: 999px"}](https://x.com/ChaithanyaK42){:target="_blank"}
 
-# Chaithanya Kumar A
-
 I'm a machine learning researcher and engineer focused on building AI systems that solve real-world problems. Currently leading ML development at [Stylumia](https://www.stylumia.ai/), where I work on multimodal LLMs for fashion trend recommendations.
 
 > *"Spend 10,000 hours on deliberate effort and work, form a daily habit, and compare yourself to yourself from a year ago to track progress."* - Andrej Karpathy
