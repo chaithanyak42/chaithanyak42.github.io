@@ -24,17 +24,9 @@ permalink: /blog/
   {% endfor %}
 </div>
 
-<h2>Archives</h2>
+<h2>Archive</h2>
 <div class="archive-section">
-  {% assign years = "" | split: "" %}
-  {% for post in site.posts %}
-    {% assign year = post.date | date: "%Y" | to_integer %}
-    {% unless years contains year %}
-      {% assign years = years | push: year %}
-    {% endunless %}
-  {% endfor %}
-  
-  {% assign years = years | sort | reverse %}
+  {% assign years = site.posts | map: "date" | map: "year" | uniq | sort | reverse %}
   {% for year in years %}
     {% if year != current_year %}
       <a href="/blog/{{ year }}">{{ year }}</a>{% unless forloop.last %} • {% endunless %}
