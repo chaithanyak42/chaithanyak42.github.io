@@ -7,6 +7,7 @@ author:
 - Chaithanya Kumar A
 ---
 
+
 I think there's something magical & a sense of feeling of huge accomplishment when you do hard things. I am not able to express It through words but every time when I do a hard thing I feel that I can do anything In my life, I get a feeling where I can just get done a piece of work which I thought I could not do It earlier. It's like when you do a certain hard thing, It has a great level of positive net impact on other areas of your life at-least to certain degree for sure.
 
 
@@ -36,6 +37,7 @@ The only thing you can do to break this cycle and be uniquely distinct from othe
 
 
 I'm writing this as a reminder to myself so I can do enough hard things, endure enough suffering & pain deliberately. It builds resilience and more importantly It builds a strong mental strength.
+
 
 
 So whatever It is that you are after my friend - just go do It. Ignore the outside world, listen to your inner self and get the fucking work done.
