@@ -1,17 +1,5 @@
-{%- assign social = site.social_links -%}
-
 <ul class="social-media-list">
-  {%- for entry in social -%}
-    {%- assign platform = entry.platform -%}
-    {%- assign user_url = entry.user_url -%}
-    {%- if platform and user_url -%}
-      <li>
-        <a rel="me" href="{{ user_url }}" target="_blank" title="{{ platform | capitalize }}">
-          <svg class="svg-icon grey">
-            <use xlink:href="{{ 'assets/minima-social-icons.svg#' | append: platform | relative_url }}"></use>
-          </svg>
-        </a>
-      </li>
-    {%- endif -%}
-  {%- endfor -%}
+{%- for entry in site.minima.social_links -%}
+  {%- include social-item.html item = entry -%}
+{%- endfor -%}
 </ul>
