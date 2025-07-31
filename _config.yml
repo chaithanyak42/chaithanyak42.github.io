@@ -30,6 +30,7 @@ collections:
 # in order as they should show up.
 header_pages:
   - blog.md
+  - travel.md
   - curiosity.md
   - list-100.md
   - quotes.md
