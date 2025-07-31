@@ -6,14 +6,17 @@ permalink: /travel/
 
 <style>
 .travel-gallery {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
-  gap: 20px;
+  columns: 3;
+  column-gap: 15px;
   margin: 20px 0;
 }
 
 .travel-photo {
   position: relative;
+  display: inline-block;
+  width: 100%;
+  margin-bottom: 15px;
+  break-inside: avoid;
   overflow: hidden;
   border-radius: 8px;
   box-shadow: 0 4px 8px rgba(0,0,0,0.1);
@@ -27,8 +30,8 @@ permalink: /travel/
 
 .travel-photo img {
   width: 100%;
-  height: 350px;
-  object-fit: cover;
+  height: auto;
+  display: block;
 }
 
 .photo-caption {
@@ -94,11 +97,7 @@ permalink: /travel/
 
 @media (max-width: 768px) {
   .travel-gallery {
-    grid-template-columns: 1fr;
-  }
-  
-  .travel-photo img {
-    height: 280px;
+    columns: 1;
   }
   
   .lightbox-content {
@@ -111,6 +110,12 @@ permalink: /travel/
     top: 10px;
     right: 20px;
     font-size: 30px;
+  }
+}
+
+@media (max-width: 1024px) and (min-width: 769px) {
+  .travel-gallery {
+    columns: 2;
   }
 }
 </style>
