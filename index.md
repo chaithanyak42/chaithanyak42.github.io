@@ -16,7 +16,7 @@ I'm a machine learning researcher and engineer focused on building AI systems th
 
 ## What I'm Doing Now
 
-*Updated on July 31, 2024, from my home in Bengaluru.*
+*Updated on July 31, 2025, from my home in Bengaluru.*
 
 **Work:** Currently working at mem0 as a research engineer, contributing my part towards improving memory. I've always been obsessed with how the human brain works.
 
