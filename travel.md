@@ -229,10 +229,6 @@ document.addEventListener('DOMContentLoaded', function() {
   <div class="photo-caption">The journey continues</div>
 </div>
 
-<div class="travel-photo" onclick="openLightbox('/assets/Travel/earth.jpg')">
-  <img src="/assets/Travel/earth.jpg" alt="Earth perspective">
-  <div class="photo-caption">Our pale blue dot</div>
-</div>
 
 <div class="travel-photo" onclick="openLightbox('/assets/Travel/jupiter.jpeg')">
   <img src="/assets/Travel/jupiter.jpeg" alt="Jupiter view">
