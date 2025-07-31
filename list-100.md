@@ -9,15 +9,15 @@ permalink: /list-100/
 [Chip Huyen](https://huyenchip.com/) inspired me to create this list. :)
 
 These are the 100 aspirations I hope to achieve in my lifetime. I'd love to hear if you have any suggestions that deserve to be on this list!
-Progress as of October 22nd, 2024: Completed 2.573 out of 42.
+Progress as of July 31st, 2025: Completed 2.573 out of 42.
 
-1. ✅ Watch a christopher nolan movie in IMAX - Oppenhiemer :)  
-2. Learn how things around us work - study physics & astrophysics
-3. Experience aurora borealis
+1. ✅ Watch a christopher nolan movie in IMAX -  Watched Oppenhiemer & also Interstellar :)
+2. Study physics & astrophysics
+3. Become an Ultra-Marathon Runner
 4. Experience sky diving in Dubai & Franz Josef in New Zealand
 5. Learn a musical instrument (Piano/Guitar) ~ I'd like to play the **Interstellar** theme song someday :)
 6. Do at least 15 Himalayan treks - *Progress: 3/15* ([Phulhara Ridge](https://indiahikes.com/phulara-ridge-trek),[Sandakphu Phalut](https://indiahikes.com/sandakphu-phalut),[Rupin Pass](https://indiahikes.com/rupin-pass))
-8. Read the best 100 books (These are the [books](https://chaithanyak42.github.io/books/) that I'd like to revisit every year)
+8. Read the best 100 books ~ Only 1% there :( 
 9. Take a picture of a distant galaxy (This [Youtube](https://www.youtube.com/watch?v=zKDe094o-Q8) video sparked my interest)
 10. Learn astrophotography
 11. Study neuroscience & psychology to understand how our brain works ~ The most critical place for human identity. 
@@ -27,7 +27,7 @@ Progress as of October 22nd, 2024: Completed 2.573 out of 42.
 15. Learn **scuba diving**
 16. Learn to drive a car :)
 17. Travel at least 50+ countries - *Progress: 2/50* (India,Philippines - I have been to Nepal and Malaysia but haven't explored nearly as much as India and Philippines) 
-18. ✅ Attend the Coldplay musical concert 
+18. ✅ Attend the Coldplay musical concert - Manila, Philippines :)
 19. Fall in love & get married to the person I love
 20. Meet **Lex Fridman**
 21. Run a full , half  marathon & a 10k - Did a 10k recently :)
@@ -52,6 +52,11 @@ Progress as of October 22nd, 2024: Completed 2.573 out of 42.
 40. Make something people want - Build my own AI startup -> WIP
 41. Do an Ironman
 42. Learn Swimming
+43. Explore the Amazon Rainforest & Spend time with a local tribe
+44. Build my own library.
+45. Visit Sir Isaac Newton's home.
+
+
 
 
 <!-- Add more items to reach 100 -->

@@ -18,16 +18,16 @@ I'm a machine learning researcher and engineer focused on building AI systems th
 
 *Updated on July 31, 2024, from my home in Bengaluru.*
 
-**Work:** Currently working at mem0 as a research engineer, contributing my part towards improving memory. I've always been obsessed with how the human brain works, and one of the most important parts of the human brain is memory.
+**Work:** Currently working at mem0 as a research engineer, contributing my part towards improving memory. I've always been obsessed with how the human brain works.
 
-**Running:** Recently obsessed with running and working towards becoming an ultra-marathon runner. I have my first ever marathon coming up - the TCS Amsterdam Marathon happening on October 19th. You can follow my journey on [Strava](https://www.strava.com/athletes/125663266).
+**Running:** Recently obsessed with running & working towards becoming an ultra-marathon runner. I have my first ever marathon coming up - the TCS Amsterdam Marathon happening on October 19th. You can follow my journey on [Strava](https://www.strava.com/athletes/125663266).
 
-**Health:** Obsessed with health and longevity, particularly fascinated by questions like: Why do we age and can aging be reversed? While I believe in Steve Jobs' wisdom that "death is the greatest invention of life" and gives meaning to our existence, I have strong reasons for wanting to live long enough to:
-1. See fellow humans become a spacefaring civilization and reach Mars - there's so much to learn yet so little time, which drives my interest in physics and understanding how the world works
+**Health:** Been thinking a lot recently about health and longevity, particularly fascinated by questions like: Why do we age and can aging be reversed? While I believe in Steve Jobs' wisdom that "death is the greatest invention of life" and gives meaning to our existence, I have strong reasons for wanting to live long enough to:
+1. See fellow humans become a spacefaring species & reach Mars & also there's so much to learn yet so little time, which drives my interest in physics and understanding how the world works
 2. Spend time learning about the universe and its mysteries
 3. Travel and hike as many mountains as possible
 
-**Adventure:** Love to travel, but more importantly, I'm passionate about hiking and mountaineering. Currently preparing for a solo hike on the [Arctic Circle Trail](https://arcticcircletrail.gl/) in Greenland.
+**Adventure:** I love to travel, but more importantly, I'm passionate about hiking and mountaineering. Currently preparing for a solo hike on the [Arctic Circle Trail](https://arcticcircletrail.gl/) in Greenland.
 
 ## Interests & Learning
 My time is dedicated to:
