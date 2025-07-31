@@ -7,7 +7,7 @@ permalink: /travel/
 <style>
 .travel-gallery {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
   gap: 20px;
   margin: 20px 0;
 }
@@ -27,7 +27,7 @@ permalink: /travel/
 
 .travel-photo img {
   width: 100%;
-  height: 250px;
+  height: 350px;
   object-fit: cover;
 }
 
@@ -98,7 +98,7 @@ permalink: /travel/
   }
   
   .travel-photo img {
-    height: 200px;
+    height: 280px;
   }
   
   .lightbox-content {
@@ -149,8 +149,6 @@ document.addEventListener('DOMContentLoaded', function() {
   });
 });
 </script>
-
-A collection of moments from my adventures around the world. Each photo tells a story of exploration, wonder, and the beauty I've encountered while hiking mountains, chasing sunrises, and discovering new places.
 
 <!-- Lightbox -->
 <div id="lightbox" class="lightbox">
@@ -212,7 +210,7 @@ A collection of moments from my adventures around the world. Each photo tells a 
 
 <div class="travel-photo" onclick="openLightbox('/assets/Travel/sb.jpeg')">
   <img src="/assets/Travel/sb.jpeg" alt="Scenic beauty">
-  <div class="photo-caption">Nature's masterpiece</div>
+  <div class="photo-caption">The Sleeping Buddha watches over Kanchenjunga</div>
 </div>
 
 <div class="travel-photo" onclick="openLightbox('/assets/Travel/mansb.jpeg')">
@@ -238,4 +236,3 @@ A collection of moments from my adventures around the world. Each photo tells a 
 
 </div>
 
-*More adventures and photos coming soon as I continue exploring our beautiful planet and preparing for that solo hike on the Arctic Circle Trail in Greenland.*
