@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A few Reflections on Life"
+title: "A Few Reflections on Life"
 categories: Reflections
 author:
 - Chaithanya Kumar A
@@ -18,10 +18,10 @@ Try to relentlessly prune as much bullshit as possible. Overtime I have realised
 - associating yourself with more labels especially with politics & religion as paul graham said [Keep your Identity Small](https://www.paulgraham.com/identity.html)
 - wasting your time with people who drain your energy & waiting for the wrong people (your heart will feel this)
 - wasting time in the endless meetings 
-- I guess it's sad people only realise the value of time as they grow older but I have been lucky enough to have to have had this realisation at a young age. 
+- I guess it's sad people only realise the value of time as they grow older but I have been lucky enough to have had this realisation at a young age. 
 - Treat time as one of your most valuable assests & not many realise this in their pursuit of materialistic success.
 - Say No if you have to make time for youself & your loved one's & also be okay with people telling you No.
-- you can literally count the no of days you get to spend with your loved one's - I guess death is what give's life it's meaning maybe.
+- you can literally count the no of days you get to spend with your loved one's & I guess death is what give's life it's meaning maybe.
   
 A few blogs from people I love on the Shortness of Life:
 
