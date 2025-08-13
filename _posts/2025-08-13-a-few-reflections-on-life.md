@@ -74,5 +74,5 @@ It teaches you humility & as Carl Sagan said It is truly an humbling & character
 We humans took a lot of pride that the earth is the center of the universe only to realise it isn't. We then took pride in the fact we are the only planet just to realise we have neighbours, we took pride that okay maybe our sun is the only star and it's the center of the universe only to realise there are billions of stars. we took pride in that our solar system is in the center of the galxy only to realise that we are 26000 light years away from the center of the galaxy. we took pride in the fact milky way is the only galaxy only to realise that every single dot that you seen in the below Image is a galaxy with billions of stars & planets. ~ Humility 
 
 
-![Galaxy](assets/images/STScI-01G8H1NK4W8CJYHF2DDFD1W0DQ.png)
+![Galaxy](assets/STScI-01G8H1NK4W8CJYHF2DDFD1W0DQ.png)
 
