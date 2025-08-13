@@ -8,7 +8,7 @@ author:
 
 # A few reflections on completing another Journey around the Sun. 
 
-1. Life is genuienly shorter than you realize. 
+#### Life is genuienly shorter than you realize. 
 
 "*It is not that we have a short time to live, but that we waste a lot of it.*" - Seneca On the Shortness of Life
 
@@ -24,21 +24,21 @@ A few blogs from people I love on the Shortness of Life:
 - [I’m sorry to have to announce that my cancer situation has developed not necessarily to my advantage](https://jerseyeveningpost.com/news/2024/02/11/jersey-overseas-aid-director-simon-boas-discusses-his-terminal-cancer-diagnosis/) - Simon Boas
 - [Before I Go](https://stanmed.stanford.edu/before-i-go/) - Paul Kalanithi
 
-2. There are a few things In life you will only learn the hard way & It's okay. I wish everyone goes through a bad phase In their life only to realise how beautiful life is. 
+#### There are a few things In life you will only learn the hard way & It's okay. I wish everyone goes through a bad phase In their life only to realise how beautiful life is. 
 
 "*Greatness is not intelligence. Greatness comes from character. And character isn’t formed out of smart people, it’s formed out of people who suffered* - Jensen Huang"
 
 Don't get me wrong on this I have personally seen & have experianced this myself. We live in era of abundance comfort & little period of suffering can do a world of good.
 
-3. Health is your one & only most Important true asset
+#### Health is your one & only most Important true asset
 
 It's very simple, the world has made this very complicated. Just get good sleep , eat clean food & exercise. More importantly have meaningful relationships with people. 
 
-4. Happiness is choice that you can make every sigle day 
+#### Happiness is choice that you can make every sigle day 
 
 I heard the best thing you can do is try to be in a good mood. Figure out what does happiness really mean to you
 
-5. Have a purpose , Have strong Why's & Have ambitious goals. 
+#### Have a purpose , Have strong Why's & Have ambitious goals. 
 
 The reason to have these is not because of the outcome but because of who you become as a person in this process. 
 
@@ -51,23 +51,23 @@ the greatest value in life is what you become.*"  - Jim Rohn
 Ambitious goals does not only mean to make billions of dollars of money but It can be as simple as learning a difficult language , climbing that moutain, running an ultramarathon. Have something to look forward to. 
 
 
-6. Money does really matter and It can buy happiness If you know how to use It the right way. 
+#### Money does really matter and It can buy happiness If you know how to use It the right way. 
 
-7. Strive & Work hard to have the right people around you.
+#### Strive & Work hard to have the right people around you.
 
-8. Read more books. 
+#### Read more books. 
 
 It's magical , It's beatiful , It's the best gift humanity has given to each other. 
 
-9. Travel as much as possible. 
+#### Travel as much as possible. 
 
 Travel to have fun , Travel for the curiosity , Travel for the adventure , Travel for the learning - Just keep travelling. 
 
-10. Materriasltic stuff does not really matter but you will most likely realise this when you have It. So I wish you to have this sooner 
+#### Materriasltic stuff does not really matter but you will most likely realise this when you have It. So I wish you to have this sooner 
 
-11. Let curisoity to drive you to places you have never been to and have a mindset of a beginner. Do not let yourself into the trap of expertise. 
+#### Let curisoity to drive you to places you have never been to and have a mindset of a beginner. Do not let yourself into the trap of expertise. 
 
-12. Understanding the universe Is also deeply knowing who you are as a person. 
+#### Understanding the universe Is also deeply knowing who you are as a person. 
 
 It teaches you humility & as Carl Sagan said It is truly an humbling & character building experience. 
 
