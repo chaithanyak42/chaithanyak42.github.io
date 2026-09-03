@@ -10,7 +10,7 @@ Things I want to do before I die. Please let me know if you have any recommendat
 
 1. &#10003; ~~Watch a Christopher Nolan movie in IMAX~~
    - Oppenheimer was my first Nolan film in IMAX, though I walked in 15-20 minutes late thanks to Bangalore traffic. :(
-   - Went solo for the Interstellar re-release and made it on time. Interstellar is my favourite film of all time.
+   - Went solo for the Interstellar re-release in IMAX. It's my favourite film of all time.
    - &#10007; Still to do, as Nolan intended: watch one in IMAX 70mm.
 2. &#10007; Study physics & astrophysics
 3. &#10007; Become an Ultra-Marathon Runner
