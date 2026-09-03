@@ -17,7 +17,10 @@ Things I want to do before I die. Please let me know if you have any recommendat
 3. &#10007; Become an ultra-marathon runner (50 km and beyond)
 4. &#10003; ~~Experience sky diving in Dubai & Franz Josef in New Zealand~~ - did it in [Interlaken, Switzerland](https://www.instagram.com/p/Dc1LJH5AUz9/) instead
 5. &#10007; Learn a musical instrument (Piano/Guitar) ~ I’d like to play the Interstellar theme song someday
-6. &#10007; Do at least 15 Himalayan treks ([~3/15 done](https://indiahikes.com/phulara-ridge-trek))
+6. &#10007; Do at least 15 Himalayan treks (3/15 done)
+   - [Phulara Ridge](https://indiahikes.com/phulara-ridge-trek)
+   - [Sandakphu Phalut](https://indiahikes.com/sandakphu-phalut) - still my favourite trek
+   - [Rupin Pass](https://indiahikes.com/rupin-pass)
 7. &#10007; Read the best 100 books
 8. &#10007; Take a picture of a distant galaxy
 9. &#10007; Learn astrophotography
