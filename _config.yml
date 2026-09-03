@@ -80,3 +80,8 @@ minima:
 
 disqus:
   shortname: cosmos42
+
+# Self-hosted comments (Cloudflare Worker, source in comments-worker/). Enable per page with `comments: true`.
+comments:
+  api: https://comments.chaithanyak42.com
+  turnstile_sitekey: 0x4AAAAAAEmDyPAXWKvoNXWZ

@@ -1,0 +1,84 @@
+{%- if site.comments and site.comments.api -%}
+<section class="comments" id="comments" data-api="{{ site.comments.api }}">
+  <h2 class="comments-title">Comments</h2>
+  <div id="comments-list" class="comments-list" aria-live="polite"><p class="comments-muted">Loading comments...</p></div>
+
+  <form id="comment-form" class="comment-form" novalidate>
+    <h3 class="comments-subtitle">Leave a comment</h3>
+    <label for="comment-name">Name</label>
+    <input id="comment-name" name="name" type="text" maxlength="60" required autocomplete="nickname">
+    <label for="comment-body">Comment</label>
+    <textarea id="comment-body" name="body" rows="4" maxlength="2000" required></textarea>
+    <div class="comments-hp" aria-hidden="true">
+      <label for="comment-website">Website</label>
+      <input id="comment-website" name="website" type="text" tabindex="-1" autocomplete="off">
+    </div>
+    <div class="cf-turnstile" data-sitekey="{{ site.comments.turnstile_sitekey }}" data-size="flexible" data-appearance="interaction-only"></div>
+    <button type="submit" class="comment-submit">Post comment</button>
+    <p id="comment-status" class="comments-status" role="status"></p>
+    <p class="comments-muted comments-note">No account needed. Comments show up once I've read them. Only your name and comment are stored: no email, no IP address, no tracking.</p>
+  </form>
+</section>
+<script src="https://challenges.cloudflare.com/turnstile/v0/api.js" async defer></script>
+<script>
+(function () {
+  var root = document.getElementById('comments');
+  var api = root.getAttribute('data-api');
+  var page = location.pathname;
+  var list = document.getElementById('comments-list');
+  var form = document.getElementById('comment-form');
+  var status = document.getElementById('comment-status');
+  var fields = form.elements;
+
+  function el(tag, cls, text) { var e = document.createElement(tag); if (cls) e.className = cls; if (text != null) e.textContent = text; return e; }
+  function fmtDate(iso) { var d = new Date(iso); return isNaN(d) ? '' : d.toLocaleDateString(undefined, { year: 'numeric', month: 'short', day: 'numeric' }); }
+
+  function render(comments) {
+    list.textContent = '';
+    if (!comments.length) { list.appendChild(el('p', 'comments-muted', 'No comments yet. Be the first!')); return; }
+    comments.forEach(function (c) {
+      var item = el('article', 'comment');
+      var head = el('header', 'comment-meta');
+      head.appendChild(el('span', 'comment-author', c.name));
+      var t = el('time', 'comment-date', fmtDate(c.created_at));
+      t.setAttribute('datetime', c.created_at);
+      head.appendChild(t);
+      item.appendChild(head);
+      item.appendChild(el('p', 'comment-body', c.body));
+      list.appendChild(item);
+    });
+  }
+
+  fetch(api + '/api/comments?page=' + encodeURIComponent(page))
+    .then(function (r) { return r.json(); })
+    .then(function (d) { render(d.comments || []); })
+    .catch(function () { list.textContent = ''; list.appendChild(el('p', 'comments-muted', 'Could not load comments right now.')); });
+
+  form.addEventListener('submit', function (ev) {
+    ev.preventDefault();
+    var name = fields['name'].value.trim();
+    var body = fields['body'].value.trim();
+    if (!name || !body) { status.textContent = 'Please add your name and a comment.'; return; }
+    var tokenEl = form.querySelector('[name="cf-turnstile-response"]');
+    var token = tokenEl ? tokenEl.value : '';
+    if (!token) { status.textContent = 'One sec, still checking you are human. Try again in a moment.'; return; }
+    var btn = form.querySelector('.comment-submit');
+    btn.disabled = true;
+    status.textContent = 'Posting...';
+    fetch(api + '/api/comments', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ page: page, name: name, body: body, website: fields['website'].value, token: token })
+    })
+      .then(function (r) { return r.json().then(function (d) { return { ok: r.ok, d: d }; }); })
+      .then(function (res) {
+        if (res.ok) { form.reset(); status.textContent = 'Thanks! Your comment is in and will show up once I have read it.'; }
+        else { status.textContent = (res.d && res.d.error) || 'Something went wrong, please try again.'; }
+        if (window.turnstile) { try { window.turnstile.reset(); } catch (e) {} }
+      })
+      .catch(function () { status.textContent = 'Could not reach the comments service. Please try again.'; })
+      .then(function () { btn.disabled = false; });
+  });
+})();
+</script>
+{%- endif -%}

@@ -2,6 +2,7 @@
 layout: page
 title: List 100
 permalink: /list-100/
+comments: true
 ---
 
 Things I want to do before I die. Please let me know if you have any recommendations.
