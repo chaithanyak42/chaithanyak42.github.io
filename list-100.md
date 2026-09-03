@@ -52,7 +52,7 @@ Things I want to do before I die. Please let me know if you have any recommendat
 32. &#10007; Read Calvin & Hobbes, The Hitchhiker’s Guide to the Galaxy
 33. &#10007; Learn how to write & share about my work & learnings
 34. &#10007; Backpack Latin America for at least 2-3 months
-35. &#10007; Travel Europe
+35. &#10003; ~~Travel Europe~~ - done, but will keep going back :)
 36. &#10007; Build my own house
 37. &#10007; Hike to the Everest Base Camp
 38. &#10007; Learn to play a sport well (Badminton / Tennis)
