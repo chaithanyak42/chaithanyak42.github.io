@@ -6,6 +6,8 @@ layout: home
 
 Hello fellow earthlings and aliens! Welcome to my corner of the universe. How lucky are we to meet on this rocky planet - a mote of dust suspended in a sunbeam.
 
+Want a quick overview of who I am as a person? Head over to my [Principles](/principles/) - the values I live by.
+
 I'm a machine learning researcher and engineer focused on building AI systems that solve real-world problems:
 
 - Currently working at [mem0](https://mem0.ai/) as a member of technical staff primarily working on the memory layer
@@ -40,5 +42,5 @@ I believe in doing what you [Love](https://paulgraham.com/love.html), pursuing [
 
 When not coding, you'll find me trekking, running , exploring nature, or diving into books about the human brain.
 
-[Twitter](https://x.com/ChaithanyaK42) | [GitHub](https://github.com/chaithanyak42) | [Blog](/blog)
+[Twitter](https://x.com/ChaithanyaK42) | [GitHub](https://github.com/chaithanyak42) | [Blog](/blog) | [Principles](/principles/)
 
