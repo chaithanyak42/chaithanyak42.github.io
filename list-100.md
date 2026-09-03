@@ -13,8 +13,8 @@ Things I want to do before I die. Please let me know if you have any recommendat
    - Oppenheimer was my first Nolan film in IMAX, though I walked in 15-20 minutes late thanks to Bangalore traffic. :(
    - Went solo for the Interstellar re-release in IMAX. It's my favourite film of all time.
    - &#10007; Still to do, as Nolan intended: watch one in IMAX 70mm.
-2. &#10007; Study physics & astrophysics
-3. &#10007; Become an Ultra-Marathon Runner
+2. &#10007; Learn physics properly, Feynman Lectures first, then astrophysics
+3. &#10007; Finish an ultra-marathon (50K and beyond)
 4. &#10003; ~~Experience sky diving in Dubai & Franz Josef in New Zealand~~ - did it in [Interlaken, Switzerland](https://www.instagram.com/p/Dc1LJH5AUz9/) instead
 5. &#10007; Learn a musical instrument (Piano/Guitar) ~ I’d like to play the Interstellar theme song someday
 6. &#10007; Do at least 15 Himalayan treks ([~3/15 done](https://indiahikes.com/phulara-ridge-trek))
