@@ -39,7 +39,7 @@ Things I want to do before I die. Please let me know if you have any recommendat
    - First half marathon (21.1 km) in [Bangalore](https://www.instagram.com/p/DYubbrZgU5c/)
    - First full marathon (42.2 km) at the [Helsinki Marathon](https://www.instagram.com/p/DcWRBrHDOIM/)
 21. &#10007; Run a sub-2:50 marathon
-22. &#10007; Become an endurance athlete
+22. &#10007; Become an endurance athlete (WIP)
 23. &#10007; Go on an African safari
 24. &#10007; Work towards being one of the best AI minds & add value to people’s lives through technology
 25. &#10007; Write a book related to ML on First Principles
