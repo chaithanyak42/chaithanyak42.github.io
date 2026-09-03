@@ -30,7 +30,8 @@ Things I want to do before I die. Please let me know if you have any recommendat
 13. &#10007; Go on an overseas trip with my whole family
 14. &#10007; Learn scuba diving
 15. &#10007; Learn to drive a car
-16. &#10007; Travel at least 50+ countries (~2/50 done)
+16. &#10007; Travel at least 50+ countries (9/50 done)
+   - India, Nepal, Singapore, Malaysia, Finland, Italy, Switzerland, Czech Republic, Austria
 17. &#10003; ~~Watch Coldplay live~~ - done in Manila, Philippines
 18. &#10003; ~~Watch Linkin Park live~~ - done in Bangalore
 19. &#10007; Fall in love & get married to the person I love
