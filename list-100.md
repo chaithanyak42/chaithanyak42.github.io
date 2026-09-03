@@ -77,3 +77,7 @@ Things I want to do before I die. Please let me know if you have any recommendat
 46. &#10007; Explore the Amazon Rainforest & spend time with a local tribe
 47. &#10007; Build my own library
 48. &#10007; Visit Sir Isaac Newton’s home
+49. &#10007; Explore Patagonia
+50. &#10007; Visit Antarctica
+51. &#10007; Experience a total solar eclipse from the path of totality
+52. &#10007; Experience a rocket launch
