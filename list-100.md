@@ -27,8 +27,8 @@ Things I want to do before I die. Please let me know if you have any recommendat
 14. &#10007; Learn scuba diving
 15. &#10007; Learn to drive a car
 16. &#10007; Travel at least 50+ countries (~2/50 done)
-17. &#10003; ~~Attend the Coldplay concert — Manila, Philippines~~
-18. &#10003; ~~Watch a Linkin Park concert — Bangalore~~
+17. &#10003; ~~Watch Coldplay live~~ - done in Manila, Philippines
+18. &#10003; ~~Watch Linkin Park live~~ - done in Bangalore
 19. &#10007; Fall in love & get married to the person I love
 20. &#10007; Meet Lex Fridman
 21. &#10007; Run a full, half marathon & a 10k
