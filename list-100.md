@@ -35,8 +35,10 @@ Things I want to do before I die. Please let me know if you have any recommendat
 17. &#10003; ~~Watch Coldplay live~~ - done in Manila, Philippines
 18. &#10003; ~~Watch Linkin Park live~~ - done in Bangalore
 19. &#10007; Fall in love & get married to the person I love
-20. &#10007; Meet Lex Fridman
-21. &#10007; Run a full, half marathon & a 10k
+20. &#10003; ~~Run a full, half marathon & a 10k~~
+   - First half marathon (21.1 km) in [Bangalore](https://www.instagram.com/p/DYubbrZgU5c/)
+   - First full marathon (42.2 km) at the [Helsinki Marathon](https://www.instagram.com/p/DcWRBrHDOIM/)
+21. &#10007; Run a sub-2:50 marathon
 22. &#10007; Become an endurance athlete
 23. &#10007; Go on an African safari
 24. &#10007; Work towards being one of the best AI minds & add value to people’s lives through technology
