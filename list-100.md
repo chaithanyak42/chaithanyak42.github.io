@@ -8,9 +8,10 @@ Things I want to do before I die. Please let me know if you have any recommendat
 
 [Chip Huyen](https://huyenchip.com/) inspired me to create this list. :)
 
-1. &#10003; Watch a Christopher Nolan movie in IMAX
-   - Oppenheimer was my first ever IMAX Nolan experience, but I was 15-20 minutes late because of the goddamn Bangalore traffic :(
-   - Went solo for the Interstellar re-release and made it on time this time. Interstellar is my favorite movie of all time.
+1. &#10003; ~~Watch a Christopher Nolan movie in IMAX~~
+   - Oppenheimer was my first Nolan film in IMAX, though I walked in 15-20 minutes late thanks to Bangalore traffic. :(
+   - Went solo for the Interstellar re-release and made it on time. Interstellar is my favourite film of all time.
+   - &#10007; Still to do, as Nolan intended: watch one in IMAX 70mm.
 2. &#10007; Study physics & astrophysics
 3. &#10007; Become an Ultra-Marathon Runner
 4. &#10007; Experience sky diving in Dubai & Franz Josef in New Zealand
@@ -26,8 +27,8 @@ Things I want to do before I die. Please let me know if you have any recommendat
 14. &#10007; Learn scuba diving
 15. &#10007; Learn to drive a car
 16. &#10007; Travel at least 50+ countries (~2/50 done)
-17. &#10003; Attend the Coldplay concert — Manila, Philippines
-18. &#10003; Watch a Linkin Park concert — Bangalore
+17. &#10003; ~~Attend the Coldplay concert — Manila, Philippines~~
+18. &#10003; ~~Watch a Linkin Park concert — Bangalore~~
 19. &#10007; Fall in love & get married to the person I love
 20. &#10007; Meet Lex Fridman
 21. &#10007; Run a full, half marathon & a 10k
