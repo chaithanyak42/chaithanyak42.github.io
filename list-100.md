@@ -71,7 +71,7 @@ Things I want to do before I die. Please let me know if you have any recommendat
 40. &#10007; Do the [Arctic Circle Trail](https://arcticcircletrail.gl/) in Greenland
 41. &#10007; Learn to play a sport well (Badminton / Tennis)
 42. &#10007; Hike at least one 6000m mountain - Either in the Himalayas or Andes
-43. &#10007; Make something people want - Build my own AI startup
+43. &#10007; Build my own business
 44. &#10007; Do an Ironman
 45. &#10007; Learn Swimming
 46. &#10007; Explore the Amazon Rainforest & spend time with a local tribe
