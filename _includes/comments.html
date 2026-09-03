@@ -48,10 +48,13 @@
     });
   }
 
-  fetch(api + '/api/comments?page=' + encodeURIComponent(page))
-    .then(function (r) { return r.json(); })
-    .then(function (d) { render(d.comments || []); })
-    .catch(function () { list.textContent = ''; list.appendChild(el('p', 'comments-muted', 'Could not load comments right now.')); });
+  function load() {
+    return fetch(api + '/api/comments?page=' + encodeURIComponent(page))
+      .then(function (r) { return r.json(); })
+      .then(function (d) { render(d.comments || []); })
+      .catch(function () { list.textContent = ''; list.appendChild(el('p', 'comments-muted', 'Could not load comments right now.')); });
+  }
+  load();
 
   form.addEventListener('submit', function (ev) {
     ev.preventDefault();
@@ -71,7 +74,7 @@
     })
       .then(function (r) { return r.json().then(function (d) { return { ok: r.ok, d: d }; }); })
       .then(function (res) {
-        if (res.ok) { form.reset(); status.textContent = 'Thanks! Your comment is in and will show up once I have read it.'; }
+        if (res.ok) { form.reset(); status.textContent = 'Posted.'; load(); }
         else { status.textContent = (res.d && res.d.error) || 'Something went wrong, please try again.'; }
         if (window.turnstile) { try { window.turnstile.reset(); } catch (e) {} }
       })

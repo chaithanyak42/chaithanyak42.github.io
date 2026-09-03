@@ -1,11 +1,13 @@
 // Comments backend for chaithanyak42.com
 // Runs as a Cloudflare Worker at https://comments.chaithanyak42.com
 //   GET  /api/comments?page=/list-100/   -> approved comments for a page
-//   POST /api/comments                   -> submit a comment (held for moderation)
-//   GET  /admin                          -> moderation page (behind Cloudflare Access)
-//   POST /admin/action                   -> approve / hide / delete
-// Bindings: DB (D1), TURNSTILE_SECRET, ACCESS_AUD, ACCESS_TEAM, RATE_LIMIT (optional)
-// Stored per comment: page, name, comment text, timestamp, approved flag. No email, no IP.
+//   POST /api/comments                   -> post a comment (goes live immediately, emails the owner)
+//   GET  /admin                          -> hide / unhide / delete comments (behind Cloudflare Access)
+//   POST /admin/action
+// Bindings: DB (D1), TURNSTILE_SECRET, ACCESS_AUD, ACCESS_TEAM, EMAIL (send_email), RATE_LIMIT (optional)
+// Stored per comment: page, name, comment text, timestamp, visible flag. No email, no IP.
+
+import { EmailMessage } from "cloudflare:email";
 
 const ALLOWED_ORIGINS = ["https://chaithanyak42.com", "https://www.chaithanyak42.com", "http://localhost:4000", "http://127.0.0.1:4000"];
 const MAX_NAME = 60;
@@ -64,7 +66,7 @@ async function createComment(request, env, cors) {
   const name = clean(data.name, MAX_NAME);
   const body = clean(data.body, MAX_BODY);
   if (!page || !name || !body) return json({ error: "name and comment are required" }, 400, cors);
-  if (data.website) return json({ status: "pending" }, 202, cors); // honeypot field: bots fill it, humans never see it
+  if (data.website) return json({ status: "posted" }, 201, cors); // honeypot field: bots fill it, humans never see it
   if (env.RATE_LIMIT) {
     const ip = request.headers.get("CF-Connecting-IP") || "unknown";
     const { success } = await env.RATE_LIMIT.limit({ key: ip });
@@ -72,8 +74,9 @@ async function createComment(request, env, cors) {
   }
   const ok = await verifyTurnstile(data.token, request.headers.get("CF-Connecting-IP"), env);
   if (!ok) return json({ error: "human check failed, please retry" }, 400, cors);
-  await env.DB.prepare("INSERT INTO comments (page, name, body) VALUES (?1, ?2, ?3)").bind(page, name, body).run();
-  return json({ status: "pending" }, 202, cors);
+  const ins = await env.DB.prepare("INSERT INTO comments (page, name, body, approved) VALUES (?1, ?2, ?3, 1) RETURNING id, name, body, created_at").bind(page, name, body).first();
+  await notifyOwner(env, page, ins);
+  return json({ status: "posted", comment: ins }, 201, cors);
 }
 
 // Strip control characters (keep tab and newline), trim, cap length.
@@ -87,6 +90,31 @@ function clean(v, max) {
   out = out.trim();
   if (out.length > max) out = out.slice(0, max);
   return out;
+}
+
+// Email the owner about a new comment. Failures here must never block the comment itself.
+async function notifyOwner(env, page, c) {
+  if (!env.EMAIL || !env.OWNER_EMAIL) return;
+  try {
+    const from = "comments@chaithanyak42.com";
+    const subject = "New comment on chaithanyak42.com" + page + " from " + c.name.replace(/[^\x20-\x7e]/g, "?");
+    const text = c.name + " wrote on https://chaithanyak42.com" + page + "#comments\r\n\r\n" + c.body + "\r\n\r\n--\r\nHide or delete: https://comments.chaithanyak42.com/admin\r\n";
+    const raw = [
+      "From: Site comments <" + from + ">",
+      "To: " + env.OWNER_EMAIL,
+      "Subject: " + subject,
+      "Date: " + new Date().toUTCString(),
+      "Message-ID: <comment-" + c.id + "-" + Date.now() + "@chaithanyak42.com>",
+      "MIME-Version: 1.0",
+      "Content-Type: text/plain; charset=utf-8",
+      "Content-Transfer-Encoding: 8bit",
+      "",
+      text
+    ].join("\r\n");
+    await env.EMAIL.send(new EmailMessage(from, env.OWNER_EMAIL, raw));
+  } catch (e) {
+    // swallow: notification is best-effort
+  }
 }
 
 async function verifyTurnstile(token, ip, env) {
@@ -111,8 +139,8 @@ async function admin(request, url, env) {
     const id = Number(form.get("id"));
     const action = form.get("action");
     if (Number.isInteger(id) && id > 0) {
-      if (action === "approve") await env.DB.prepare("UPDATE comments SET approved = 1 WHERE id = ?1").bind(id).run();
-      else if (action === "unapprove") await env.DB.prepare("UPDATE comments SET approved = 0 WHERE id = ?1").bind(id).run();
+      if (action === "show") await env.DB.prepare("UPDATE comments SET approved = 1 WHERE id = ?1").bind(id).run();
+      else if (action === "hide") await env.DB.prepare("UPDATE comments SET approved = 0 WHERE id = ?1").bind(id).run();
       else if (action === "delete") await env.DB.prepare("DELETE FROM comments WHERE id = ?1").bind(id).run();
     }
     return Response.redirect(url.origin + "/admin", 303);
@@ -125,10 +153,10 @@ async function admin(request, url, env) {
 function esc(s) { return String(s).replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c])); }
 
 function renderAdmin(rows, identity) {
-  const pending = rows.filter(r => !r.approved);
-  const approved = rows.filter(r => r.approved);
-  const row = r => '<article class="c' + (r.approved ? ' ok' : ' pending') + '"><header><strong>' + esc(r.name) + '</strong> on <a href="https://chaithanyak42.com' + esc(r.page) + '">' + esc(r.page) + '</a> <time>' + esc(r.created_at) + '</time></header><p>' + esc(r.body) + '</p><form method="post" action="/admin/action"><input type="hidden" name="id" value="' + r.id + '">' + (r.approved ? '<button name="action" value="unapprove">Hide</button>' : '<button name="action" value="approve" class="primary">Approve</button>') + '<button name="action" value="delete" class="danger" onclick="return confirm(\'Delete this comment?\')">Delete</button></form></article>';
-  return '<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Comments admin</title><style>body{font:16px/1.5 -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif;max-width:760px;margin:2rem auto;padding:0 1rem;color:#111;background:#fdfdfd}h1{font-size:1.5rem}h2{font-size:1.1rem;margin-top:2rem;color:#555}.c{border:1px solid #ddd;border-radius:8px;padding:1rem;margin:1rem 0;background:#fff}.c.pending{border-color:#e9b949;background:#fffaf0}header{font-size:.9rem;color:#555}header strong{color:#111}time{margin-left:.5rem}p{white-space:pre-wrap;margin:.5rem 0}form{display:flex;gap:.5rem}button{padding:.4rem .9rem;border:1px solid #bbb;border-radius:6px;background:#fff;cursor:pointer}button.primary{background:#2a7ae2;border-color:#2a7ae2;color:#fff}button.danger{color:#b00020}.empty{color:#777}.me{font-size:.85rem;color:#777}</style></head><body><h1>Comments admin</h1><p class="me">Signed in as ' + esc(identity) + '. ' + pending.length + ' pending, ' + approved.length + ' approved (latest 300 shown).</p><h2>Pending</h2>' + (pending.length ? pending.map(row).join('') : '<p class="empty">Nothing waiting.</p>') + '<h2>Approved</h2>' + (approved.length ? approved.map(row).join('') : '<p class="empty">None yet.</p>') + '</body></html>';
+  const hidden = rows.filter(r => !r.approved);
+  const visible = rows.filter(r => r.approved);
+  const row = r => '<article class="c' + (r.approved ? ' ok' : ' pending') + '"><header><strong>' + esc(r.name) + '</strong> on <a href="https://chaithanyak42.com' + esc(r.page) + '">' + esc(r.page) + '</a> <time>' + esc(r.created_at) + '</time></header><p>' + esc(r.body) + '</p><form method="post" action="/admin/action"><input type="hidden" name="id" value="' + r.id + '">' + (r.approved ? '<button name="action" value="hide">Hide</button>' : '<button name="action" value="show" class="primary">Show again</button>') + '<button name="action" value="delete" class="danger" onclick="return confirm(\'Delete this comment?\')">Delete</button></form></article>';
+  return '<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Comments admin</title><style>body{font:16px/1.5 -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif;max-width:760px;margin:2rem auto;padding:0 1rem;color:#111;background:#fdfdfd}h1{font-size:1.5rem}h2{font-size:1.1rem;margin-top:2rem;color:#555}.c{border:1px solid #ddd;border-radius:8px;padding:1rem;margin:1rem 0;background:#fff}.c.pending{border-color:#e9b949;background:#fffaf0}header{font-size:.9rem;color:#555}header strong{color:#111}time{margin-left:.5rem}p{white-space:pre-wrap;margin:.5rem 0}form{display:flex;gap:.5rem}button{padding:.4rem .9rem;border:1px solid #bbb;border-radius:6px;background:#fff;cursor:pointer}button.primary{background:#2a7ae2;border-color:#2a7ae2;color:#fff}button.danger{color:#b00020}.empty{color:#777}.me{font-size:.85rem;color:#777}</style></head><body><h1>Comments admin</h1><p class="me">Signed in as ' + esc(identity) + '. ' + visible.length + ' live, ' + hidden.length + ' hidden (latest 300 shown).</p><h2>Live</h2>' + (visible.length ? visible.map(row).join('') : '<p class="empty">No comments yet.</p>') + '<h2>Hidden</h2>' + (hidden.length ? hidden.map(row).join('') : '<p class="empty">Nothing hidden.</p>') + '</body></html>';
 }
 
 // Verify the Cloudflare Access JWT ourselves, so /admin stays locked even if the Access policy were ever removed.
