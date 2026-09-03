@@ -53,7 +53,7 @@ async function listComments(url, env, cors) {
   const page = normalizePage(url.searchParams.get("page"));
   if (!page) return json({ error: "bad page" }, 400, cors);
   const { results } = await env.DB.prepare("SELECT id, name, body, created_at FROM comments WHERE page = ?1 AND approved = 1 ORDER BY created_at ASC, id ASC LIMIT 500").bind(page).all();
-  return json({ comments: results }, 200, Object.assign({}, cors, { "cache-control": "public, max-age=30" }));
+  return json({ comments: results }, 200, cors); // json() sets cache-control: no-store, so moderation changes show immediately
 }
 
 async function createComment(request, env, cors) {
