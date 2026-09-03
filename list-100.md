@@ -54,12 +54,13 @@ Things I want to do before I die. Please let me know if you have any recommendat
 34. &#10007; Backpack Latin America for at least 2-3 months
 35. &#10003; ~~Travel Europe~~ - done, but will keep going back :)
 36. &#10007; Build my own house
-37. &#10007; Hike to the Everest Base Camp
-38. &#10007; Learn to play a sport well (Badminton / Tennis)
-39. &#10007; Hike at least one 6000m mountain - Either in the Himalayas or Andes
-40. &#10007; Make something people want - Build my own AI startup
-41. &#10007; Do an Ironman
-42. &#10007; Learn Swimming
-43. &#10007; Explore the Amazon Rainforest & spend time with a local tribe
-44. &#10007; Build my own library
-45. &#10007; Visit Sir Isaac Newton’s home
+37. &#10007; Hike to Everest Base Camp (EBC)
+38. &#10007; Do the [Arctic Circle Trail](https://arcticcircletrail.gl/) in Greenland
+39. &#10007; Learn to play a sport well (Badminton / Tennis)
+40. &#10007; Hike at least one 6000m mountain - Either in the Himalayas or Andes
+41. &#10007; Make something people want - Build my own AI startup
+42. &#10007; Do an Ironman
+43. &#10007; Learn Swimming
+44. &#10007; Explore the Amazon Rainforest & spend time with a local tribe
+45. &#10007; Build my own library
+46. &#10007; Visit Sir Isaac Newton’s home
