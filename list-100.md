@@ -15,7 +15,7 @@ Things I want to do before I die. Please let me know if you have any recommendat
    - &#10007; Still to do, as Nolan intended: watch one in IMAX 70mm.
 2. &#10007; Study physics & astrophysics
 3. &#10007; Become an Ultra-Marathon Runner
-4. &#10007; Experience sky diving in Dubai & Franz Josef in New Zealand
+4. &#10003; ~~Experience sky diving in Dubai & Franz Josef in New Zealand~~ - did it in [Interlaken, Switzerland](https://www.instagram.com/p/Dc1LJH5AUz9/) instead
 5. &#10007; Learn a musical instrument (Piano/Guitar) ~ I’d like to play the Interstellar theme song someday
 6. &#10007; Do at least 15 Himalayan treks ([~3/15 done](https://indiahikes.com/phulara-ridge-trek))
 7. &#10007; Read the best 100 books
