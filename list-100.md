@@ -52,7 +52,7 @@ Things I want to do before I die. Please let me know if you have any recommendat
    - &#10007; New York City
    - &#10007; Cape Town
 23. &#10007; Become an endurance athlete (WIP)
-24. &#10007; Go on an African safari
+24. &#10007; Go on an African safari (Maasai Mara or Serengeti)
 25. &#10007; Work towards being one of the best AI minds & add value to people’s lives through technology
 26. &#10007; Write a book. I don't know what it is about, but write a book.
 27. &#10007; Watch the Australia vs England Ashes cricket match at Lord’s & MCG
