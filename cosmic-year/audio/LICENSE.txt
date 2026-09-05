@@ -1,12 +1,15 @@
-Cathedral — Umplix
+Organ Variation — Hans Zimmer
+Interstellar (Original Motion Picture Soundtrack) [Expanded Edition]
+℗ 2014 WaterTower Music as licensee for Warner Bros. Entertainment Inc.
 
-Original recording and composition:
-https://opengameart.org/content/cathedral-0
-Original WAV: https://opengameart.org/sites/default/files/cathedral.wav
+Official recording: https://www.youtube.com/watch?v=CXrKUqq0Te4
+Label: https://www.watertower-music.com/release/interstellar-original-motion-picture-soundtrack-expanded-edition/
 
-The creator released this work under Creative Commons CC0 1.0:
-https://creativecommons.org/publicdomain/zero/1.0/
+Hosted at the site owner's direction. On 5 September 2026 the site owner
+confirmed having permission from the rights holder to use this recording
+as background audio on this public website and authorized its download.
+All rights remain with their respective owners. This file is not offered
+under an open-content license. No permission for downstream reuse is granted.
 
-This website adaptation repeats the recording four times with 2.4-second
-crossfades, a gentle opening and ending fade, and AAC encoding.
-No Interstellar recording or composition is included.
+Preparation: original AAC audio remuxed losslessly into a standard M4A
+container with streaming headers at the beginning. No edits to the music.
