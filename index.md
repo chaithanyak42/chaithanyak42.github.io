@@ -6,6 +6,8 @@ layout: home
 
 Hello fellow earthlings and aliens! Welcome to my corner of the universe. How lucky are we to meet on this rocky planet - a mote of dust suspended in a sunbeam.
 
+Explore [A Year of Everything](/cosmic-year/) — the universe, compressed into one year.
+
 Want a quick overview of who I am as a person? Head over to my [Principles](/principles/) - the values I live by.
 
 I'm a machine learning researcher and engineer focused on building AI systems that solve real-world problems:
